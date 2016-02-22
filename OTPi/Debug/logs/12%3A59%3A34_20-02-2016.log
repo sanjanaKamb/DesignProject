@@ -1,0 +1,97 @@
+20-02-2016 12:59:34	Main		TRACE	Logger initialized.
+20-02-2016 12:59:34	Main		TRACE	try1
+20-02-2016 12:59:34	Main		TRACE	try2
+20-02-2016 12:59:34	PropertyReader		TRACE	Opening file: settings/settings.txt
+20-02-2016 12:59:34	PropertyReader		INFO	File opened: settings/settings.txt
+20-02-2016 12:59:34	PropertyReader		INFO	Loading properties file...
+20-02-2016 12:59:34	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+20-02-2016 12:59:34	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+20-02-2016 12:59:34	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+20-02-2016 12:59:34	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+20-02-2016 12:59:34	PropertyReader		DEBUG	Loaded 4 properties successfully
+20-02-2016 12:59:34	Main		TRACE	try3
+20-02-2016 12:59:34	Main		TRACE	try4
+20-02-2016 12:59:34	Controller		INFO	Constructor controller
+20-02-2016 12:59:34	Controller		INFO	c1
+20-02-2016 12:59:34	Controller		INFO	c2
+20-02-2016 12:59:34	Controller		INFO	c3
+20-02-2016 12:59:34	Controller		INFO	c4
+20-02-2016 12:59:34	Controller		INFO	c5
+20-02-2016 12:59:34	Main		TRACE	intializing controller
+20-02-2016 12:59:34	Controller		INFO	Initializing Controller
+20-02-2016 12:59:34	Main		TRACE	initializing dataprocessor
+20-02-2016 12:59:34	CameraInterface		INFO	Initializing camera
+20-02-2016 12:59:34	CameraInterface		INFO	Opening video capture stream at position 0
+20-02-2016 12:59:34	ControllerThread		INFO	Starting Controller Thread execution loop
+20-02-2016 12:59:34	Receiver		INFO	Starting Receiver Thread execution loop
+20-02-2016 12:59:35	Main		TRACE	running controller
+20-02-2016 12:59:35	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 12:59:35	CameraInterface		INFO	grab
+20-02-2016 12:59:35	CameraInterface		INFO	retrieve
+20-02-2016 12:59:35	CameraInterface		INFO	Read successful
+20-02-2016 12:59:36	CameraInterface		INFO	returning
+20-02-2016 12:59:40	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 12:59:40	CameraInterface		INFO	grab
+20-02-2016 12:59:41	CameraInterface		INFO	retrieve
+20-02-2016 12:59:41	CameraInterface		INFO	Read successful
+20-02-2016 12:59:41	CameraInterface		INFO	returning
+20-02-2016 12:59:44	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 12:59:44	CameraInterface		INFO	grab
+20-02-2016 12:59:44	CameraInterface		INFO	retrieve
+20-02-2016 12:59:44	CameraInterface		INFO	Read successful
+20-02-2016 12:59:44	CameraInterface		INFO	returning
+20-02-2016 12:59:47	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 12:59:47	CameraInterface		INFO	grab
+20-02-2016 12:59:47	CameraInterface		INFO	retrieve
+20-02-2016 12:59:48	CameraInterface		INFO	Read successful
+20-02-2016 12:59:48	CameraInterface		INFO	returning
+20-02-2016 12:59:50	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 12:59:50	CameraInterface		INFO	grab
+20-02-2016 12:59:51	CameraInterface		INFO	retrieve
+20-02-2016 12:59:51	CameraInterface		INFO	Read successful
+20-02-2016 12:59:51	CameraInterface		INFO	returning
+20-02-2016 12:59:54	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 12:59:54	CameraInterface		INFO	grab
+20-02-2016 12:59:54	CameraInterface		INFO	retrieve
+20-02-2016 12:59:54	CameraInterface		INFO	Read successful
+20-02-2016 12:59:54	CameraInterface		INFO	returning
+20-02-2016 12:59:57	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 12:59:57	CameraInterface		INFO	grab
+20-02-2016 12:59:57	CameraInterface		INFO	retrieve
+20-02-2016 12:59:57	CameraInterface		INFO	Read successful
+20-02-2016 12:59:57	CameraInterface		INFO	returning
+20-02-2016 01:00:01	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 01:00:01	CameraInterface		INFO	grab
+20-02-2016 01:00:01	CameraInterface		INFO	retrieve
+20-02-2016 01:00:01	CameraInterface		INFO	Read successful
+20-02-2016 01:00:01	CameraInterface		INFO	returning
+20-02-2016 01:00:04	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 01:00:04	CameraInterface		INFO	grab
+20-02-2016 01:00:04	CameraInterface		INFO	retrieve
+20-02-2016 01:00:04	CameraInterface		INFO	Read successful
+20-02-2016 01:00:04	CameraInterface		INFO	returning
+20-02-2016 01:00:08	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 01:00:08	CameraInterface		INFO	grab
+20-02-2016 01:00:08	CameraInterface		INFO	retrieve
+20-02-2016 01:00:08	CameraInterface		INFO	Read successful
+20-02-2016 01:00:08	CameraInterface		INFO	returning
+20-02-2016 01:00:12	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 01:00:12	CameraInterface		INFO	grab
+20-02-2016 01:00:12	CameraInterface		INFO	retrieve
+20-02-2016 01:00:12	CameraInterface		INFO	Read successful
+20-02-2016 01:00:12	CameraInterface		INFO	returning
+20-02-2016 01:00:15	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 01:00:15	CameraInterface		INFO	grab
+20-02-2016 01:00:15	CameraInterface		INFO	retrieve
+20-02-2016 01:00:15	CameraInterface		INFO	Read successful
+20-02-2016 01:00:15	CameraInterface		INFO	returning
+20-02-2016 01:00:19	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 01:00:19	CameraInterface		INFO	grab
+20-02-2016 01:00:19	CameraInterface		INFO	retrieve
+20-02-2016 01:00:19	CameraInterface		INFO	Read successful
+20-02-2016 01:00:19	CameraInterface		INFO	returning
+20-02-2016 01:00:22	DataProcessor		INFO	Here in dataprocessor
+20-02-2016 01:00:22	CameraInterface		INFO	grab
+20-02-2016 01:00:23	CameraInterface		INFO	retrieve
+20-02-2016 01:00:23	CameraInterface		INFO	Read successful
+20-02-2016 01:00:23	CameraInterface		INFO	returning

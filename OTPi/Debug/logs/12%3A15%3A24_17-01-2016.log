@@ -1,0 +1,16 @@
+17-01-2016 12:15:24	Main		TRACE	Logger initialized.
+17-01-2016 12:15:24	PropertyReader		TRACE	Opening file: settings/settings.txt
+17-01-2016 12:15:24	PropertyReader		INFO	File opened: settings/settings.txt
+17-01-2016 12:15:24	PropertyReader		INFO	Loading properties file...
+17-01-2016 12:15:24	PropertyReader		INFO	Mapped INFO to LOGGING_LEVEL
+17-01-2016 12:15:24	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+17-01-2016 12:15:24	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+17-01-2016 12:15:24	PropertyReader		INFO	Mapped 4 to CAM_INDEX
+17-01-2016 12:15:24	PropertyReader		DEBUG	Loaded 4 properties successfully
+17-01-2016 12:15:24	Controller		INFO	Initializing Controller
+17-01-2016 12:15:24	CameraInterface		INFO	Initializing camera
+17-01-2016 12:15:24	CameraInterface		INFO	Opening video capture stream at position 4
+17-01-2016 12:15:24	ControllerThread		INFO	Starting Controller Thread execution loop
+17-01-2016 12:15:24	Transmitter		INFO	Starting Receiver Thread execution loop
+17-01-2016 12:15:24	Receiver		INFO	Starting Receiver Thread execution loop
+17-01-2016 12:15:24	CameraInterface		ERROR	Failed to open video capture stream, exiting now. Make sure camera(s) are plugged in.

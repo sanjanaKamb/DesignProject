@@ -1,0 +1,40 @@
+20-02-2016 05:02:33	Main		TRACE	Logger initialized.
+20-02-2016 05:02:33	PropertyReader		TRACE	Opening file: settings/settings.txt
+20-02-2016 05:02:33	PropertyReader		INFO	File opened: settings/settings.txt
+20-02-2016 05:02:33	PropertyReader		INFO	Loading properties file...
+20-02-2016 05:02:33	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+20-02-2016 05:02:33	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+20-02-2016 05:02:33	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+20-02-2016 05:02:33	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+20-02-2016 05:02:33	PropertyReader		DEBUG	Loaded 4 properties successfully
+20-02-2016 05:02:33	Controller		INFO	Constructor controller
+20-02-2016 05:02:33	Main		TRACE	intializing controller
+20-02-2016 05:02:33	Controller		INFO	Initializing Controller
+20-02-2016 05:02:33	Main		TRACE	initializing dataprocessor
+20-02-2016 05:02:33	CameraInterface		INFO	Initializing camera
+20-02-2016 05:02:33	CameraInterface		INFO	Opening video capture stream at position 0
+20-02-2016 05:02:33	ControllerThread		INFO	Starting Controller Thread execution loop
+20-02-2016 05:02:33	Receiver		INFO	Starting Receiver Thread execution loop
+20-02-2016 05:02:33	Main		TRACE	running controller
+20-02-2016 05:02:33	DataProcessor		INFO	polling
+20-02-2016 05:02:33	CameraInterface		INFO	Read successful
+20-02-2016 05:02:35	DataProcessor		INFO	polling
+20-02-2016 05:02:35	CameraInterface		INFO	Read successful
+20-02-2016 05:02:36	DataProcessor		INFO	polling
+20-02-2016 05:02:36	CameraInterface		INFO	Read successful
+20-02-2016 05:02:37	DataProcessor		INFO	polling
+20-02-2016 05:02:37	CameraInterface		INFO	Read successful
+20-02-2016 05:02:38	DataProcessor		INFO	polling
+20-02-2016 05:02:38	CameraInterface		INFO	Read successful
+20-02-2016 05:02:39	DataProcessor		INFO	polling
+20-02-2016 05:02:40	CameraInterface		INFO	Read successful
+20-02-2016 05:02:40	DataProcessor		INFO	polling
+20-02-2016 05:02:40	CameraInterface		INFO	Read successful
+20-02-2016 05:02:42	DataProcessor		INFO	polling
+20-02-2016 05:02:42	CameraInterface		INFO	Read successful
+20-02-2016 05:02:43	DataProcessor		INFO	polling
+20-02-2016 05:02:43	CameraInterface		INFO	Read successful
+20-02-2016 05:02:44	DataProcessor		INFO	polling
+20-02-2016 05:02:44	CameraInterface		INFO	Read successful
+20-02-2016 05:02:45	DataProcessor		INFO	polling
+20-02-2016 05:02:45	CameraInterface		INFO	Read successful

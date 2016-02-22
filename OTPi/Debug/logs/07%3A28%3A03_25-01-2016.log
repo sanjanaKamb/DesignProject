@@ -1,0 +1,27 @@
+25-01-2016 07:28:03	Main		TRACE	Logger initialized.
+25-01-2016 07:28:03	PropertyReader		TRACE	Opening file: settings/settings.txt
+25-01-2016 07:28:03	PropertyReader		INFO	File opened: settings/settings.txt
+25-01-2016 07:28:03	PropertyReader		INFO	Loading properties file...
+25-01-2016 07:28:03	PropertyReader		INFO	Mapped INFO to LOGGING_LEVEL
+25-01-2016 07:28:03	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+25-01-2016 07:28:03	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+25-01-2016 07:28:03	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+25-01-2016 07:28:03	PropertyReader		DEBUG	Loaded 4 properties successfully
+25-01-2016 07:28:03	Transmitter		INFO	socket retrieve success
+25-01-2016 07:28:03	Controller		INFO	Initializing Controller
+25-01-2016 07:28:03	CameraInterface		INFO	Initializing camera
+25-01-2016 07:28:03	Transmitter		INFO	Starting Receiver Thread execution loop
+25-01-2016 07:28:03	ControllerThread		INFO	Starting Controller Thread execution loop
+25-01-2016 07:28:03	Receiver		INFO	Starting Receiver Thread execution loop
+25-01-2016 07:28:03	CameraInterface		INFO	Opening video capture stream at position 0
+25-01-2016 07:28:04	CameraInterface		INFO	Read successful
+25-01-2016 07:28:06	Transmitter		INFO	ÿØÿà
+25-01-2016 07:28:06	CameraInterface		INFO	Read successful
+25-01-2016 07:28:09	CameraInterface		INFO	Read successful
+25-01-2016 07:28:09	Transmitter		INFO	ÿØÿà
+25-01-2016 07:28:12	CameraInterface		INFO	Read successful
+25-01-2016 07:28:12	Transmitter		INFO	ÿØÿà
+25-01-2016 07:28:15	Transmitter		INFO	ÿØÿà
+25-01-2016 07:28:15	CameraInterface		INFO	Read successful
+25-01-2016 07:28:18	Transmitter		INFO	ÿØÿà
+25-01-2016 07:28:18	CameraInterface		INFO	Read successful

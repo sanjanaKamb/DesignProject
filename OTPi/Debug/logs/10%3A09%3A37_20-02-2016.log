@@ -1,0 +1,13 @@
+20-02-2016 10:09:37	Main		TRACE	Logger initialized.
+20-02-2016 10:09:37	PropertyReader		TRACE	Opening file: settings/settings.txt
+20-02-2016 10:09:37	PropertyReader		INFO	File opened: settings/settings.txt
+20-02-2016 10:09:37	PropertyReader		INFO	Loading properties file...
+20-02-2016 10:09:37	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+20-02-2016 10:09:37	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+20-02-2016 10:09:37	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+20-02-2016 10:09:37	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+20-02-2016 10:09:37	PropertyReader		DEBUG	Loaded 4 properties successfully
+20-02-2016 10:09:37	Controller		INFO	Constructor controller
+20-02-2016 10:09:37	Transmitter		INFO	socket retrieve success
+20-02-2016 10:09:37	Transmitter		INFO	binding done
+20-02-2016 10:09:37	Transmitter		INFO	done listening

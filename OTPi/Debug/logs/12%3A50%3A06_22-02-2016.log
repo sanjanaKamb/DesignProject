@@ -1,0 +1,224 @@
+22-02-2016 12:50:06	Main		TRACE	Logger initialized.
+22-02-2016 12:50:06	PropertyReader		TRACE	Opening file: settings/settings.txt
+22-02-2016 12:50:06	PropertyReader		INFO	File opened: settings/settings.txt
+22-02-2016 12:50:06	PropertyReader		INFO	Loading properties file...
+22-02-2016 12:50:06	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+22-02-2016 12:50:06	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+22-02-2016 12:50:06	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+22-02-2016 12:50:06	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+22-02-2016 12:50:06	PropertyReader		DEBUG	Loaded 4 properties successfully
+22-02-2016 12:50:06	Controller		INFO	Constructor controller
+22-02-2016 12:50:06	Transmitter		INFO	socket retrieve success
+22-02-2016 12:50:06	Transmitter		INFO	binding done
+22-02-2016 12:50:06	Transmitter		INFO	done listening
+22-02-2016 12:51:46	Transmitter		INFO	accepting
+22-02-2016 12:51:46	Main		TRACE	intializing controller
+22-02-2016 12:51:46	Controller		INFO	Initializing Controller
+22-02-2016 12:51:46	Main		TRACE	initializing dataprocessor
+22-02-2016 12:51:46	CameraInterface		INFO	Initializing camera
+22-02-2016 12:51:46	CameraInterface		INFO	Opening video capture stream at position 0
+22-02-2016 12:51:46	Receiver		INFO	Starting Receiver Thread execution loop
+22-02-2016 12:51:46	Transmitter		INFO	Starting Receiver Thread execution loop
+22-02-2016 12:51:46	ControllerThread		INFO	Starting Controller Thread execution loop
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Main		TRACE	running controller
+22-02-2016 12:51:46	DataProcessor		INFO	polling
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:46	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	CameraInterface		INFO	Read successful
+22-02-2016 12:51:47	Controller		INFO	sending to transmitter
+22-02-2016 12:51:47	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:47	DataProcessor		INFO	polling
+22-02-2016 12:51:47	Transmitter		INFO	running
+22-02-2016 12:51:47	Transmitter		INFO	getting from buffer
+22-02-2016 12:51:47	CameraInterface		INFO	Read successful
+22-02-2016 12:51:47	Controller		INFO	sending to transmitter
+22-02-2016 12:51:47	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:47	DataProcessor		INFO	polling
+22-02-2016 12:51:47	CameraInterface		INFO	Read successful
+22-02-2016 12:51:47	Controller		INFO	sending to transmitter
+22-02-2016 12:51:47	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:47	DataProcessor		INFO	polling
+22-02-2016 12:51:47	CameraInterface		INFO	Read successful
+22-02-2016 12:51:47	Controller		INFO	sending to transmitter
+22-02-2016 12:51:48	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:48	DataProcessor		INFO	polling
+22-02-2016 12:51:48	CameraInterface		INFO	Read successful
+22-02-2016 12:51:48	Controller		INFO	sending to transmitter
+22-02-2016 12:51:48	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:48	DataProcessor		INFO	polling
+22-02-2016 12:51:48	CameraInterface		INFO	Read successful
+22-02-2016 12:51:48	Controller		INFO	sending to transmitter
+22-02-2016 12:51:48	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:48	DataProcessor		INFO	polling
+22-02-2016 12:51:48	CameraInterface		INFO	Read successful
+22-02-2016 12:51:48	Controller		INFO	sending to transmitter
+22-02-2016 12:51:48	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:48	DataProcessor		INFO	polling
+22-02-2016 12:51:48	CameraInterface		INFO	Read successful
+22-02-2016 12:51:48	Controller		INFO	sending to transmitter
+22-02-2016 12:51:48	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:48	DataProcessor		INFO	polling
+22-02-2016 12:51:49	CameraInterface		INFO	Read successful
+22-02-2016 12:51:49	Controller		INFO	sending to transmitter
+22-02-2016 12:51:49	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:49	DataProcessor		INFO	polling
+22-02-2016 12:51:49	CameraInterface		INFO	Read successful
+22-02-2016 12:51:49	Controller		INFO	sending to transmitter
+22-02-2016 12:51:49	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:49	DataProcessor		INFO	polling
+22-02-2016 12:51:49	CameraInterface		INFO	Read successful
+22-02-2016 12:51:49	Controller		INFO	sending to transmitter
+22-02-2016 12:51:49	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:49	DataProcessor		INFO	polling
+22-02-2016 12:51:49	CameraInterface		INFO	Read successful
+22-02-2016 12:51:49	Controller		INFO	sending to transmitter
+22-02-2016 12:51:49	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:49	DataProcessor		INFO	polling
+22-02-2016 12:51:49	CameraInterface		INFO	Read successful
+22-02-2016 12:51:49	Controller		INFO	sending to transmitter
+22-02-2016 12:51:49	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:49	DataProcessor		INFO	polling
+22-02-2016 12:51:50	CameraInterface		INFO	Read successful
+22-02-2016 12:51:50	Controller		INFO	sending to transmitter
+22-02-2016 12:51:50	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:50	DataProcessor		INFO	polling
+22-02-2016 12:51:50	CameraInterface		INFO	Read successful
+22-02-2016 12:51:50	Controller		INFO	sending to transmitter
+22-02-2016 12:51:50	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:50	DataProcessor		INFO	polling
+22-02-2016 12:51:50	CameraInterface		INFO	Read successful
+22-02-2016 12:51:50	Controller		INFO	sending to transmitter
+22-02-2016 12:51:50	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:50	DataProcessor		INFO	polling
+22-02-2016 12:51:50	CameraInterface		INFO	Read successful
+22-02-2016 12:51:50	Controller		INFO	sending to transmitter
+22-02-2016 12:51:50	Transmitter		INFO	pushing into buff
+22-02-2016 12:51:50	DataProcessor		INFO	polling

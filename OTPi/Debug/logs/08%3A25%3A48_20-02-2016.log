@@ -1,0 +1,929 @@
+20-02-2016 08:25:48	Main		TRACE	Logger initialized.
+20-02-2016 08:25:48	PropertyReader		TRACE	Opening file: settings/settings.txt
+20-02-2016 08:25:48	PropertyReader		INFO	File opened: settings/settings.txt
+20-02-2016 08:25:48	PropertyReader		INFO	Loading properties file...
+20-02-2016 08:25:48	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+20-02-2016 08:25:48	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+20-02-2016 08:25:48	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+20-02-2016 08:25:48	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+20-02-2016 08:25:48	PropertyReader		DEBUG	Loaded 4 properties successfully
+20-02-2016 08:25:48	Controller		INFO	Constructor controller
+20-02-2016 08:25:48	Transmitter		INFO	socket retrieve success
+20-02-2016 08:25:48	Transmitter		INFO	binding done
+20-02-2016 08:25:48	Transmitter		INFO	done listening
+20-02-2016 08:25:53	Transmitter		INFO	accepting
+20-02-2016 08:25:53	Main		TRACE	intializing controller
+20-02-2016 08:25:53	Controller		INFO	Initializing Controller
+20-02-2016 08:25:53	Main		TRACE	initializing dataprocessor
+20-02-2016 08:25:53	CameraInterface		INFO	Initializing camera
+20-02-2016 08:25:53	CameraInterface		INFO	Opening video capture stream at position 0
+20-02-2016 08:25:53	Receiver		INFO	Starting Receiver Thread execution loop
+20-02-2016 08:25:53	Transmitter		INFO	Starting Receiver Thread execution loop
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	ControllerThread		INFO	Starting Controller Thread execution loop
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Main		TRACE	running controller
+20-02-2016 08:25:53	DataProcessor		INFO	polling
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:53	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	CameraInterface		INFO	Read successful
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:54	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:55	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:56	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:57	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:58	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:25:59	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:00	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:01	Controller		INFO	sending to transmitter
+20-02-2016 08:26:01	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:01	DataProcessor		INFO	polling
+20-02-2016 08:26:01	Transmitter		INFO	running
+20-02-2016 08:26:02	Transmitter		INFO	getting from buffer
+20-02-2016 08:26:02	CameraInterface		INFO	Read successful
+20-02-2016 08:26:05	Controller		INFO	sending to transmitter
+20-02-2016 08:26:05	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:05	DataProcessor		INFO	polling
+20-02-2016 08:26:05	CameraInterface		INFO	Read successful
+20-02-2016 08:26:07	Controller		INFO	sending to transmitter
+20-02-2016 08:26:07	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:07	DataProcessor		INFO	polling
+20-02-2016 08:26:08	CameraInterface		INFO	Read successful
+20-02-2016 08:26:10	Controller		INFO	sending to transmitter
+20-02-2016 08:26:10	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:10	DataProcessor		INFO	polling
+20-02-2016 08:26:11	CameraInterface		INFO	Read successful
+20-02-2016 08:26:12	Transmitter		INFO	sending string: ‰PNG
+
+
+20-02-2016 08:26:13	Transmitter		INFO	running
+20-02-2016 08:26:13	Transmitter		INFO	getting from buffer
+20-02-2016 08:26:13	Controller		INFO	sending to transmitter
+20-02-2016 08:26:13	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:13	DataProcessor		INFO	polling
+20-02-2016 08:26:14	CameraInterface		INFO	Read successful
+20-02-2016 08:26:16	Controller		INFO	sending to transmitter
+20-02-2016 08:26:16	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:16	DataProcessor		INFO	polling
+20-02-2016 08:26:16	CameraInterface		INFO	Read successful
+20-02-2016 08:26:19	Controller		INFO	sending to transmitter
+20-02-2016 08:26:19	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:19	DataProcessor		INFO	polling
+20-02-2016 08:26:19	CameraInterface		INFO	Read successful
+20-02-2016 08:26:22	Controller		INFO	sending to transmitter
+20-02-2016 08:26:22	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:22	DataProcessor		INFO	polling
+20-02-2016 08:26:22	CameraInterface		INFO	Read successful
+20-02-2016 08:26:25	Controller		INFO	sending to transmitter
+20-02-2016 08:26:25	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:25	DataProcessor		INFO	polling
+20-02-2016 08:26:25	CameraInterface		INFO	Read successful
+20-02-2016 08:26:28	Controller		INFO	sending to transmitter
+20-02-2016 08:26:28	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:28	DataProcessor		INFO	polling
+20-02-2016 08:26:28	CameraInterface		INFO	Read successful
+20-02-2016 08:26:30	Transmitter		INFO	sending string: ‰PNG
+
+
+20-02-2016 08:26:31	Controller		INFO	sending to transmitter
+20-02-2016 08:26:31	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:31	DataProcessor		INFO	polling
+20-02-2016 08:26:31	CameraInterface		INFO	Read successful
+20-02-2016 08:26:34	Controller		INFO	sending to transmitter
+20-02-2016 08:26:34	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:34	DataProcessor		INFO	polling
+20-02-2016 08:26:35	CameraInterface		INFO	Read successful
+20-02-2016 08:26:37	Controller		INFO	sending to transmitter
+20-02-2016 08:26:37	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:37	DataProcessor		INFO	polling
+20-02-2016 08:26:37	CameraInterface		INFO	Read successful
+20-02-2016 08:26:39	Controller		INFO	sending to transmitter
+20-02-2016 08:26:39	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:39	DataProcessor		INFO	polling
+20-02-2016 08:26:39	CameraInterface		INFO	Read successful
+20-02-2016 08:26:41	Controller		INFO	sending to transmitter
+20-02-2016 08:26:41	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:41	DataProcessor		INFO	polling
+20-02-2016 08:26:42	CameraInterface		INFO	Read successful
+20-02-2016 08:26:44	Controller		INFO	sending to transmitter
+20-02-2016 08:26:44	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:44	DataProcessor		INFO	polling
+20-02-2016 08:26:44	CameraInterface		INFO	Read successful
+20-02-2016 08:26:46	Controller		INFO	sending to transmitter
+20-02-2016 08:26:46	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:46	DataProcessor		INFO	polling
+20-02-2016 08:26:46	CameraInterface		INFO	Read successful
+20-02-2016 08:26:48	Controller		INFO	sending to transmitter
+20-02-2016 08:26:48	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:48	DataProcessor		INFO	polling
+20-02-2016 08:26:48	CameraInterface		INFO	Read successful
+20-02-2016 08:26:50	Controller		INFO	sending to transmitter
+20-02-2016 08:26:50	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:50	DataProcessor		INFO	polling
+20-02-2016 08:26:50	CameraInterface		INFO	Read successful
+20-02-2016 08:26:52	Controller		INFO	sending to transmitter
+20-02-2016 08:26:52	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:52	DataProcessor		INFO	polling
+20-02-2016 08:26:53	CameraInterface		INFO	Read successful
+20-02-2016 08:26:55	Controller		INFO	sending to transmitter
+20-02-2016 08:26:55	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:55	DataProcessor		INFO	polling
+20-02-2016 08:26:55	CameraInterface		INFO	Read successful
+20-02-2016 08:26:57	Controller		INFO	sending to transmitter
+20-02-2016 08:26:57	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:57	DataProcessor		INFO	polling
+20-02-2016 08:26:57	CameraInterface		INFO	Read successful
+20-02-2016 08:26:59	Controller		INFO	sending to transmitter
+20-02-2016 08:26:59	Transmitter		INFO	pushing into buff
+20-02-2016 08:26:59	DataProcessor		INFO	polling
+20-02-2016 08:26:59	CameraInterface		INFO	Read successful

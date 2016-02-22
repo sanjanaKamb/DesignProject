@@ -1,0 +1,381 @@
+23-01-2016 08:25:36	Main		TRACE	Logger initialized.
+23-01-2016 08:25:36	PropertyReader		TRACE	Opening file: settings/settings.txt
+23-01-2016 08:25:36	PropertyReader		INFO	File opened: settings/settings.txt
+23-01-2016 08:25:36	PropertyReader		INFO	Loading properties file...
+23-01-2016 08:25:36	PropertyReader		INFO	Mapped INFO to LOGGING_LEVEL
+23-01-2016 08:25:36	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+23-01-2016 08:25:36	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+23-01-2016 08:25:36	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+23-01-2016 08:25:36	PropertyReader		DEBUG	Loaded 4 properties successfully
+23-01-2016 08:25:36	CameraInterface		INFO	Initializing camera
+23-01-2016 08:25:36	CameraInterface		INFO	Opening video capture stream at position 0
+23-01-2016 08:25:36	CameraInterface		INFO	Here1
+23-01-2016 08:25:36	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:36	CameraInterface		INFO	Here3
+23-01-2016 08:25:36	CameraInterface		INFO	Read successful
+23-01-2016 08:25:36	CameraInterface		INFO	Here5
+23-01-2016 08:25:37	CameraInterface		INFO	Here1
+23-01-2016 08:25:37	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:37	CameraInterface		INFO	Here3
+23-01-2016 08:25:37	CameraInterface		INFO	Read successful
+23-01-2016 08:25:37	CameraInterface		INFO	Here5
+23-01-2016 08:25:37	CameraInterface		INFO	Here1
+23-01-2016 08:25:37	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:37	CameraInterface		INFO	Here3
+23-01-2016 08:25:37	CameraInterface		INFO	Read successful
+23-01-2016 08:25:37	CameraInterface		INFO	Here5
+23-01-2016 08:25:37	CameraInterface		INFO	Here1
+23-01-2016 08:25:37	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:37	CameraInterface		INFO	Here3
+23-01-2016 08:25:37	CameraInterface		INFO	Read successful
+23-01-2016 08:25:37	CameraInterface		INFO	Here5
+23-01-2016 08:25:37	CameraInterface		INFO	Here1
+23-01-2016 08:25:37	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:37	CameraInterface		INFO	Here3
+23-01-2016 08:25:37	CameraInterface		INFO	Read successful
+23-01-2016 08:25:37	CameraInterface		INFO	Here5
+23-01-2016 08:25:38	CameraInterface		INFO	Here1
+23-01-2016 08:25:38	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:38	CameraInterface		INFO	Here3
+23-01-2016 08:25:38	CameraInterface		INFO	Read successful
+23-01-2016 08:25:38	CameraInterface		INFO	Here5
+23-01-2016 08:25:38	CameraInterface		INFO	Here1
+23-01-2016 08:25:38	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:38	CameraInterface		INFO	Here3
+23-01-2016 08:25:38	CameraInterface		INFO	Read successful
+23-01-2016 08:25:38	CameraInterface		INFO	Here5
+23-01-2016 08:25:38	CameraInterface		INFO	Here1
+23-01-2016 08:25:38	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:38	CameraInterface		INFO	Here3
+23-01-2016 08:25:38	CameraInterface		INFO	Read successful
+23-01-2016 08:25:38	CameraInterface		INFO	Here5
+23-01-2016 08:25:38	CameraInterface		INFO	Here1
+23-01-2016 08:25:38	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:38	CameraInterface		INFO	Here3
+23-01-2016 08:25:38	CameraInterface		INFO	Read successful
+23-01-2016 08:25:38	CameraInterface		INFO	Here5
+23-01-2016 08:25:39	CameraInterface		INFO	Here1
+23-01-2016 08:25:39	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:39	CameraInterface		INFO	Here3
+23-01-2016 08:25:39	CameraInterface		INFO	Read successful
+23-01-2016 08:25:39	CameraInterface		INFO	Here5
+23-01-2016 08:25:39	CameraInterface		INFO	Here1
+23-01-2016 08:25:39	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:39	CameraInterface		INFO	Here3
+23-01-2016 08:25:39	CameraInterface		INFO	Read successful
+23-01-2016 08:25:39	CameraInterface		INFO	Here5
+23-01-2016 08:25:39	CameraInterface		INFO	Here1
+23-01-2016 08:25:39	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:39	CameraInterface		INFO	Here3
+23-01-2016 08:25:39	CameraInterface		INFO	Read successful
+23-01-2016 08:25:39	CameraInterface		INFO	Here5
+23-01-2016 08:25:39	CameraInterface		INFO	Here1
+23-01-2016 08:25:39	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:39	CameraInterface		INFO	Here3
+23-01-2016 08:25:39	CameraInterface		INFO	Read successful
+23-01-2016 08:25:39	CameraInterface		INFO	Here5
+23-01-2016 08:25:40	CameraInterface		INFO	Here1
+23-01-2016 08:25:40	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:40	CameraInterface		INFO	Here3
+23-01-2016 08:25:40	CameraInterface		INFO	Read successful
+23-01-2016 08:25:40	CameraInterface		INFO	Here5
+23-01-2016 08:25:40	CameraInterface		INFO	Here1
+23-01-2016 08:25:40	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:40	CameraInterface		INFO	Here3
+23-01-2016 08:25:40	CameraInterface		INFO	Read successful
+23-01-2016 08:25:40	CameraInterface		INFO	Here5
+23-01-2016 08:25:40	CameraInterface		INFO	Here1
+23-01-2016 08:25:40	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:40	CameraInterface		INFO	Here3
+23-01-2016 08:25:40	CameraInterface		INFO	Read successful
+23-01-2016 08:25:40	CameraInterface		INFO	Here5
+23-01-2016 08:25:40	CameraInterface		INFO	Here1
+23-01-2016 08:25:40	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:40	CameraInterface		INFO	Here3
+23-01-2016 08:25:40	CameraInterface		INFO	Read successful
+23-01-2016 08:25:40	CameraInterface		INFO	Here5
+23-01-2016 08:25:41	CameraInterface		INFO	Here1
+23-01-2016 08:25:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:41	CameraInterface		INFO	Here3
+23-01-2016 08:25:41	CameraInterface		INFO	Read successful
+23-01-2016 08:25:41	CameraInterface		INFO	Here5
+23-01-2016 08:25:41	CameraInterface		INFO	Here1
+23-01-2016 08:25:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:41	CameraInterface		INFO	Here3
+23-01-2016 08:25:41	CameraInterface		INFO	Read successful
+23-01-2016 08:25:41	CameraInterface		INFO	Here5
+23-01-2016 08:25:41	CameraInterface		INFO	Here1
+23-01-2016 08:25:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:41	CameraInterface		INFO	Here3
+23-01-2016 08:25:41	CameraInterface		INFO	Read successful
+23-01-2016 08:25:41	CameraInterface		INFO	Here5
+23-01-2016 08:25:41	CameraInterface		INFO	Here1
+23-01-2016 08:25:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:41	CameraInterface		INFO	Here3
+23-01-2016 08:25:41	CameraInterface		INFO	Read successful
+23-01-2016 08:25:41	CameraInterface		INFO	Here5
+23-01-2016 08:25:41	CameraInterface		INFO	Here1
+23-01-2016 08:25:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:41	CameraInterface		INFO	Here3
+23-01-2016 08:25:41	CameraInterface		INFO	Read successful
+23-01-2016 08:25:41	CameraInterface		INFO	Here5
+23-01-2016 08:25:41	CameraInterface		INFO	Here1
+23-01-2016 08:25:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:41	CameraInterface		INFO	Here3
+23-01-2016 08:25:41	CameraInterface		INFO	Read successful
+23-01-2016 08:25:41	CameraInterface		INFO	Here5
+23-01-2016 08:25:42	CameraInterface		INFO	Here1
+23-01-2016 08:25:42	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:42	CameraInterface		INFO	Here3
+23-01-2016 08:25:42	CameraInterface		INFO	Read successful
+23-01-2016 08:25:42	CameraInterface		INFO	Here5
+23-01-2016 08:25:42	CameraInterface		INFO	Here1
+23-01-2016 08:25:42	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:42	CameraInterface		INFO	Here3
+23-01-2016 08:25:42	CameraInterface		INFO	Read successful
+23-01-2016 08:25:42	CameraInterface		INFO	Here5
+23-01-2016 08:25:42	CameraInterface		INFO	Here1
+23-01-2016 08:25:42	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:42	CameraInterface		INFO	Here3
+23-01-2016 08:25:42	CameraInterface		INFO	Read successful
+23-01-2016 08:25:42	CameraInterface		INFO	Here5
+23-01-2016 08:25:42	CameraInterface		INFO	Here1
+23-01-2016 08:25:42	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:42	CameraInterface		INFO	Here3
+23-01-2016 08:25:42	CameraInterface		INFO	Read successful
+23-01-2016 08:25:42	CameraInterface		INFO	Here5
+23-01-2016 08:25:43	CameraInterface		INFO	Here1
+23-01-2016 08:25:43	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:43	CameraInterface		INFO	Here3
+23-01-2016 08:25:43	CameraInterface		INFO	Read successful
+23-01-2016 08:25:43	CameraInterface		INFO	Here5
+23-01-2016 08:25:43	CameraInterface		INFO	Here1
+23-01-2016 08:25:43	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:43	CameraInterface		INFO	Here3
+23-01-2016 08:25:43	CameraInterface		INFO	Read successful
+23-01-2016 08:25:43	CameraInterface		INFO	Here5
+23-01-2016 08:25:43	CameraInterface		INFO	Here1
+23-01-2016 08:25:43	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:43	CameraInterface		INFO	Here3
+23-01-2016 08:25:43	CameraInterface		INFO	Read successful
+23-01-2016 08:25:43	CameraInterface		INFO	Here5
+23-01-2016 08:25:44	CameraInterface		INFO	Here1
+23-01-2016 08:25:44	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:44	CameraInterface		INFO	Here3
+23-01-2016 08:25:44	CameraInterface		INFO	Read successful
+23-01-2016 08:25:44	CameraInterface		INFO	Here5
+23-01-2016 08:25:44	CameraInterface		INFO	Here1
+23-01-2016 08:25:44	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:44	CameraInterface		INFO	Here3
+23-01-2016 08:25:44	CameraInterface		INFO	Read successful
+23-01-2016 08:25:44	CameraInterface		INFO	Here5
+23-01-2016 08:25:44	CameraInterface		INFO	Here1
+23-01-2016 08:25:44	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:44	CameraInterface		INFO	Here3
+23-01-2016 08:25:44	CameraInterface		INFO	Read successful
+23-01-2016 08:25:44	CameraInterface		INFO	Here5
+23-01-2016 08:25:44	CameraInterface		INFO	Here1
+23-01-2016 08:25:44	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:44	CameraInterface		INFO	Here3
+23-01-2016 08:25:44	CameraInterface		INFO	Read successful
+23-01-2016 08:25:44	CameraInterface		INFO	Here5
+23-01-2016 08:25:45	CameraInterface		INFO	Here1
+23-01-2016 08:25:45	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:45	CameraInterface		INFO	Here3
+23-01-2016 08:25:45	CameraInterface		INFO	Read successful
+23-01-2016 08:25:45	CameraInterface		INFO	Here5
+23-01-2016 08:25:45	CameraInterface		INFO	Here1
+23-01-2016 08:25:45	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:45	CameraInterface		INFO	Here3
+23-01-2016 08:25:45	CameraInterface		INFO	Read successful
+23-01-2016 08:25:45	CameraInterface		INFO	Here5
+23-01-2016 08:25:45	CameraInterface		INFO	Here1
+23-01-2016 08:25:45	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:45	CameraInterface		INFO	Here3
+23-01-2016 08:25:45	CameraInterface		INFO	Read successful
+23-01-2016 08:25:45	CameraInterface		INFO	Here5
+23-01-2016 08:25:45	CameraInterface		INFO	Here1
+23-01-2016 08:25:45	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:45	CameraInterface		INFO	Here3
+23-01-2016 08:25:45	CameraInterface		INFO	Read successful
+23-01-2016 08:25:45	CameraInterface		INFO	Here5
+23-01-2016 08:25:46	CameraInterface		INFO	Here1
+23-01-2016 08:25:46	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:46	CameraInterface		INFO	Here3
+23-01-2016 08:25:46	CameraInterface		INFO	Read successful
+23-01-2016 08:25:46	CameraInterface		INFO	Here5
+23-01-2016 08:25:46	CameraInterface		INFO	Here1
+23-01-2016 08:25:46	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:46	CameraInterface		INFO	Here3
+23-01-2016 08:25:46	CameraInterface		INFO	Read successful
+23-01-2016 08:25:46	CameraInterface		INFO	Here5
+23-01-2016 08:25:46	CameraInterface		INFO	Here1
+23-01-2016 08:25:46	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:46	CameraInterface		INFO	Here3
+23-01-2016 08:25:46	CameraInterface		INFO	Read successful
+23-01-2016 08:25:46	CameraInterface		INFO	Here5
+23-01-2016 08:25:46	CameraInterface		INFO	Here1
+23-01-2016 08:25:46	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:46	CameraInterface		INFO	Here3
+23-01-2016 08:25:46	CameraInterface		INFO	Read successful
+23-01-2016 08:25:46	CameraInterface		INFO	Here5
+23-01-2016 08:25:47	CameraInterface		INFO	Here1
+23-01-2016 08:25:47	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:47	CameraInterface		INFO	Here3
+23-01-2016 08:25:47	CameraInterface		INFO	Read successful
+23-01-2016 08:25:47	CameraInterface		INFO	Here5
+23-01-2016 08:25:47	CameraInterface		INFO	Here1
+23-01-2016 08:25:47	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:47	CameraInterface		INFO	Here3
+23-01-2016 08:25:47	CameraInterface		INFO	Read successful
+23-01-2016 08:25:47	CameraInterface		INFO	Here5
+23-01-2016 08:25:47	CameraInterface		INFO	Here1
+23-01-2016 08:25:47	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:47	CameraInterface		INFO	Here3
+23-01-2016 08:25:47	CameraInterface		INFO	Read successful
+23-01-2016 08:25:47	CameraInterface		INFO	Here5
+23-01-2016 08:25:48	CameraInterface		INFO	Here1
+23-01-2016 08:25:48	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:48	CameraInterface		INFO	Here3
+23-01-2016 08:25:48	CameraInterface		INFO	Read successful
+23-01-2016 08:25:48	CameraInterface		INFO	Here5
+23-01-2016 08:25:48	CameraInterface		INFO	Here1
+23-01-2016 08:25:48	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:48	CameraInterface		INFO	Here3
+23-01-2016 08:25:48	CameraInterface		INFO	Read successful
+23-01-2016 08:25:48	CameraInterface		INFO	Here5
+23-01-2016 08:25:48	CameraInterface		INFO	Here1
+23-01-2016 08:25:48	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:48	CameraInterface		INFO	Here3
+23-01-2016 08:25:48	CameraInterface		INFO	Read successful
+23-01-2016 08:25:48	CameraInterface		INFO	Here5
+23-01-2016 08:25:49	CameraInterface		INFO	Here1
+23-01-2016 08:25:49	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:49	CameraInterface		INFO	Here3
+23-01-2016 08:25:49	CameraInterface		INFO	Read successful
+23-01-2016 08:25:49	CameraInterface		INFO	Here5
+23-01-2016 08:25:49	CameraInterface		INFO	Here1
+23-01-2016 08:25:49	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:49	CameraInterface		INFO	Here3
+23-01-2016 08:25:49	CameraInterface		INFO	Read successful
+23-01-2016 08:25:49	CameraInterface		INFO	Here5
+23-01-2016 08:25:49	CameraInterface		INFO	Here1
+23-01-2016 08:25:49	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:49	CameraInterface		INFO	Here3
+23-01-2016 08:25:49	CameraInterface		INFO	Read successful
+23-01-2016 08:25:49	CameraInterface		INFO	Here5
+23-01-2016 08:25:49	CameraInterface		INFO	Here1
+23-01-2016 08:25:49	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:49	CameraInterface		INFO	Here3
+23-01-2016 08:25:49	CameraInterface		INFO	Read successful
+23-01-2016 08:25:49	CameraInterface		INFO	Here5
+23-01-2016 08:25:50	CameraInterface		INFO	Here1
+23-01-2016 08:25:50	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:50	CameraInterface		INFO	Here3
+23-01-2016 08:25:50	CameraInterface		INFO	Read successful
+23-01-2016 08:25:50	CameraInterface		INFO	Here5
+23-01-2016 08:25:50	CameraInterface		INFO	Here1
+23-01-2016 08:25:50	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:50	CameraInterface		INFO	Here3
+23-01-2016 08:25:50	CameraInterface		INFO	Read successful
+23-01-2016 08:25:50	CameraInterface		INFO	Here5
+23-01-2016 08:25:50	CameraInterface		INFO	Here1
+23-01-2016 08:25:50	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:50	CameraInterface		INFO	Here3
+23-01-2016 08:25:50	CameraInterface		INFO	Read successful
+23-01-2016 08:25:50	CameraInterface		INFO	Here5
+23-01-2016 08:25:50	CameraInterface		INFO	Here1
+23-01-2016 08:25:50	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:50	CameraInterface		INFO	Here3
+23-01-2016 08:25:50	CameraInterface		INFO	Read successful
+23-01-2016 08:25:50	CameraInterface		INFO	Here5
+23-01-2016 08:25:51	CameraInterface		INFO	Here1
+23-01-2016 08:25:51	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:51	CameraInterface		INFO	Here3
+23-01-2016 08:25:51	CameraInterface		INFO	Read successful
+23-01-2016 08:25:51	CameraInterface		INFO	Here5
+23-01-2016 08:25:51	CameraInterface		INFO	Here1
+23-01-2016 08:25:51	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:51	CameraInterface		INFO	Here3
+23-01-2016 08:25:51	CameraInterface		INFO	Read successful
+23-01-2016 08:25:51	CameraInterface		INFO	Here5
+23-01-2016 08:25:51	CameraInterface		INFO	Here1
+23-01-2016 08:25:51	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:51	CameraInterface		INFO	Here3
+23-01-2016 08:25:51	CameraInterface		INFO	Read successful
+23-01-2016 08:25:51	CameraInterface		INFO	Here5
+23-01-2016 08:25:51	CameraInterface		INFO	Here1
+23-01-2016 08:25:51	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:51	CameraInterface		INFO	Here3
+23-01-2016 08:25:51	CameraInterface		INFO	Read successful
+23-01-2016 08:25:51	CameraInterface		INFO	Here5
+23-01-2016 08:25:52	CameraInterface		INFO	Here1
+23-01-2016 08:25:52	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:52	CameraInterface		INFO	Here3
+23-01-2016 08:25:52	CameraInterface		INFO	Read successful
+23-01-2016 08:25:52	CameraInterface		INFO	Here5
+23-01-2016 08:25:52	CameraInterface		INFO	Here1
+23-01-2016 08:25:52	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:52	CameraInterface		INFO	Here3
+23-01-2016 08:25:52	CameraInterface		INFO	Read successful
+23-01-2016 08:25:52	CameraInterface		INFO	Here5
+23-01-2016 08:25:52	CameraInterface		INFO	Here1
+23-01-2016 08:25:52	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:52	CameraInterface		INFO	Here3
+23-01-2016 08:25:52	CameraInterface		INFO	Read successful
+23-01-2016 08:25:52	CameraInterface		INFO	Here5
+23-01-2016 08:25:52	CameraInterface		INFO	Here1
+23-01-2016 08:25:52	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:52	CameraInterface		INFO	Here3
+23-01-2016 08:25:52	CameraInterface		INFO	Read successful
+23-01-2016 08:25:52	CameraInterface		INFO	Here5
+23-01-2016 08:25:53	CameraInterface		INFO	Here1
+23-01-2016 08:25:53	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:53	CameraInterface		INFO	Here3
+23-01-2016 08:25:53	CameraInterface		INFO	Read successful
+23-01-2016 08:25:53	CameraInterface		INFO	Here5
+23-01-2016 08:25:53	CameraInterface		INFO	Here1
+23-01-2016 08:25:53	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:53	CameraInterface		INFO	Here3
+23-01-2016 08:25:53	CameraInterface		INFO	Read successful
+23-01-2016 08:25:53	CameraInterface		INFO	Here5
+23-01-2016 08:25:53	CameraInterface		INFO	Here1
+23-01-2016 08:25:53	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:53	CameraInterface		INFO	Here3
+23-01-2016 08:25:53	CameraInterface		INFO	Read successful
+23-01-2016 08:25:53	CameraInterface		INFO	Here5
+23-01-2016 08:25:53	CameraInterface		INFO	Here1
+23-01-2016 08:25:53	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:53	CameraInterface		INFO	Here3
+23-01-2016 08:25:53	CameraInterface		INFO	Read successful
+23-01-2016 08:25:53	CameraInterface		INFO	Here5
+23-01-2016 08:25:53	CameraInterface		INFO	Here1
+23-01-2016 08:25:53	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:53	CameraInterface		INFO	Here3
+23-01-2016 08:25:53	CameraInterface		INFO	Read successful
+23-01-2016 08:25:53	CameraInterface		INFO	Here5
+23-01-2016 08:25:54	CameraInterface		INFO	Here1
+23-01-2016 08:25:54	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:54	CameraInterface		INFO	Here3
+23-01-2016 08:25:54	CameraInterface		INFO	Read successful
+23-01-2016 08:25:54	CameraInterface		INFO	Here5
+23-01-2016 08:25:54	CameraInterface		INFO	Here1
+23-01-2016 08:25:54	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:54	CameraInterface		INFO	Here3
+23-01-2016 08:25:54	CameraInterface		INFO	Read successful
+23-01-2016 08:25:54	CameraInterface		INFO	Here5
+23-01-2016 08:25:54	CameraInterface		INFO	Here1
+23-01-2016 08:25:54	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:54	CameraInterface		INFO	Here3
+23-01-2016 08:25:54	CameraInterface		INFO	Read successful
+23-01-2016 08:25:54	CameraInterface		INFO	Here5
+23-01-2016 08:25:54	CameraInterface		INFO	Here1
+23-01-2016 08:25:54	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:54	CameraInterface		INFO	Here3
+23-01-2016 08:25:54	CameraInterface		INFO	Read successful
+23-01-2016 08:25:55	CameraInterface		INFO	Here5
+23-01-2016 08:25:55	CameraInterface		INFO	Here1
+23-01-2016 08:25:55	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:25:55	CameraInterface		INFO	Here3
+23-01-2016 08:25:55	CameraInterface		INFO	Read successful
+23-01-2016 08:25:55	CameraInterface		INFO	Here5

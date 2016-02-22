@@ -1,0 +1,316 @@
+23-01-2016 08:56:33	Main		TRACE	Logger initialized.
+23-01-2016 08:56:33	PropertyReader		TRACE	Opening file: settings/settings.txt
+23-01-2016 08:56:33	PropertyReader		INFO	File opened: settings/settings.txt
+23-01-2016 08:56:33	PropertyReader		INFO	Loading properties file...
+23-01-2016 08:56:33	PropertyReader		INFO	Mapped INFO to LOGGING_LEVEL
+23-01-2016 08:56:33	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+23-01-2016 08:56:33	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+23-01-2016 08:56:33	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+23-01-2016 08:56:33	PropertyReader		DEBUG	Loaded 4 properties successfully
+23-01-2016 08:56:33	CameraInterface		INFO	Initializing camera
+23-01-2016 08:56:33	CameraInterface		INFO	Opening video capture stream at position 0
+23-01-2016 08:56:34	CameraInterface		INFO	Here1
+23-01-2016 08:56:34	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:34	CameraInterface		INFO	Here4
+23-01-2016 08:56:34	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:34	CameraInterface		INFO	Here5
+23-01-2016 08:56:34	CameraInterface		INFO	Here1
+23-01-2016 08:56:34	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:34	CameraInterface		INFO	Here4
+23-01-2016 08:56:34	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:34	CameraInterface		INFO	Here5
+23-01-2016 08:56:34	CameraInterface		INFO	Here1
+23-01-2016 08:56:34	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:34	CameraInterface		INFO	Here4
+23-01-2016 08:56:34	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:34	CameraInterface		INFO	Here5
+23-01-2016 08:56:34	CameraInterface		INFO	Here1
+23-01-2016 08:56:34	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:34	CameraInterface		INFO	Here4
+23-01-2016 08:56:34	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:34	CameraInterface		INFO	Here5
+23-01-2016 08:56:35	CameraInterface		INFO	Here1
+23-01-2016 08:56:35	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:35	CameraInterface		INFO	Here4
+23-01-2016 08:56:35	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:35	CameraInterface		INFO	Here5
+23-01-2016 08:56:35	CameraInterface		INFO	Here1
+23-01-2016 08:56:35	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:35	CameraInterface		INFO	Here4
+23-01-2016 08:56:35	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:35	CameraInterface		INFO	Here5
+23-01-2016 08:56:35	CameraInterface		INFO	Here1
+23-01-2016 08:56:35	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:35	CameraInterface		INFO	Here4
+23-01-2016 08:56:35	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:35	CameraInterface		INFO	Here5
+23-01-2016 08:56:35	CameraInterface		INFO	Here1
+23-01-2016 08:56:35	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:35	CameraInterface		INFO	Here4
+23-01-2016 08:56:35	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:35	CameraInterface		INFO	Here5
+23-01-2016 08:56:35	CameraInterface		INFO	Here1
+23-01-2016 08:56:35	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:35	CameraInterface		INFO	Here4
+23-01-2016 08:56:35	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:35	CameraInterface		INFO	Here5
+23-01-2016 08:56:35	CameraInterface		INFO	Here1
+23-01-2016 08:56:35	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:35	CameraInterface		INFO	Here4
+23-01-2016 08:56:35	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:35	CameraInterface		INFO	Here5
+23-01-2016 08:56:35	CameraInterface		INFO	Here1
+23-01-2016 08:56:35	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:35	CameraInterface		INFO	Here4
+23-01-2016 08:56:35	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:35	CameraInterface		INFO	Here5
+23-01-2016 08:56:36	CameraInterface		INFO	Here1
+23-01-2016 08:56:36	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:36	CameraInterface		INFO	Here4
+23-01-2016 08:56:36	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:36	CameraInterface		INFO	Here5
+23-01-2016 08:56:36	CameraInterface		INFO	Here1
+23-01-2016 08:56:36	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:36	CameraInterface		INFO	Here4
+23-01-2016 08:56:36	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:36	CameraInterface		INFO	Here5
+23-01-2016 08:56:36	CameraInterface		INFO	Here1
+23-01-2016 08:56:36	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:36	CameraInterface		INFO	Here4
+23-01-2016 08:56:36	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:36	CameraInterface		INFO	Here5
+23-01-2016 08:56:36	CameraInterface		INFO	Here1
+23-01-2016 08:56:36	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:36	CameraInterface		INFO	Here4
+23-01-2016 08:56:36	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:36	CameraInterface		INFO	Here5
+23-01-2016 08:56:36	CameraInterface		INFO	Here1
+23-01-2016 08:56:36	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:36	CameraInterface		INFO	Here4
+23-01-2016 08:56:36	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:36	CameraInterface		INFO	Here5
+23-01-2016 08:56:37	CameraInterface		INFO	Here1
+23-01-2016 08:56:37	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:37	CameraInterface		INFO	Here4
+23-01-2016 08:56:37	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:37	CameraInterface		INFO	Here5
+23-01-2016 08:56:37	CameraInterface		INFO	Here1
+23-01-2016 08:56:37	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:37	CameraInterface		INFO	Here4
+23-01-2016 08:56:37	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:37	CameraInterface		INFO	Here5
+23-01-2016 08:56:37	CameraInterface		INFO	Here1
+23-01-2016 08:56:37	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:37	CameraInterface		INFO	Here4
+23-01-2016 08:56:37	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:37	CameraInterface		INFO	Here5
+23-01-2016 08:56:37	CameraInterface		INFO	Here1
+23-01-2016 08:56:37	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:37	CameraInterface		INFO	Here4
+23-01-2016 08:56:37	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:37	CameraInterface		INFO	Here5
+23-01-2016 08:56:38	CameraInterface		INFO	Here1
+23-01-2016 08:56:38	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:38	CameraInterface		INFO	Here4
+23-01-2016 08:56:38	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:38	CameraInterface		INFO	Here5
+23-01-2016 08:56:38	CameraInterface		INFO	Here1
+23-01-2016 08:56:38	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:38	CameraInterface		INFO	Here4
+23-01-2016 08:56:38	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:38	CameraInterface		INFO	Here5
+23-01-2016 08:56:38	CameraInterface		INFO	Here1
+23-01-2016 08:56:38	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:38	CameraInterface		INFO	Here4
+23-01-2016 08:56:38	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:38	CameraInterface		INFO	Here5
+23-01-2016 08:56:38	CameraInterface		INFO	Here1
+23-01-2016 08:56:38	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:38	CameraInterface		INFO	Here4
+23-01-2016 08:56:38	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:38	CameraInterface		INFO	Here5
+23-01-2016 08:56:38	CameraInterface		INFO	Here1
+23-01-2016 08:56:38	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:38	CameraInterface		INFO	Here4
+23-01-2016 08:56:38	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:38	CameraInterface		INFO	Here5
+23-01-2016 08:56:39	CameraInterface		INFO	Here1
+23-01-2016 08:56:39	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:39	CameraInterface		INFO	Here4
+23-01-2016 08:56:39	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:39	CameraInterface		INFO	Here5
+23-01-2016 08:56:39	CameraInterface		INFO	Here1
+23-01-2016 08:56:39	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:39	CameraInterface		INFO	Here4
+23-01-2016 08:56:39	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:39	CameraInterface		INFO	Here5
+23-01-2016 08:56:39	CameraInterface		INFO	Here1
+23-01-2016 08:56:39	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:39	CameraInterface		INFO	Here4
+23-01-2016 08:56:39	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:39	CameraInterface		INFO	Here5
+23-01-2016 08:56:39	CameraInterface		INFO	Here1
+23-01-2016 08:56:39	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:39	CameraInterface		INFO	Here4
+23-01-2016 08:56:39	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:39	CameraInterface		INFO	Here5
+23-01-2016 08:56:40	CameraInterface		INFO	Here1
+23-01-2016 08:56:40	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:40	CameraInterface		INFO	Here4
+23-01-2016 08:56:40	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:40	CameraInterface		INFO	Here5
+23-01-2016 08:56:40	CameraInterface		INFO	Here1
+23-01-2016 08:56:40	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:40	CameraInterface		INFO	Here4
+23-01-2016 08:56:40	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:40	CameraInterface		INFO	Here5
+23-01-2016 08:56:40	CameraInterface		INFO	Here1
+23-01-2016 08:56:40	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:40	CameraInterface		INFO	Here4
+23-01-2016 08:56:40	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:40	CameraInterface		INFO	Here5
+23-01-2016 08:56:40	CameraInterface		INFO	Here1
+23-01-2016 08:56:40	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:40	CameraInterface		INFO	Here4
+23-01-2016 08:56:40	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:40	CameraInterface		INFO	Here5
+23-01-2016 08:56:40	CameraInterface		INFO	Here1
+23-01-2016 08:56:40	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:40	CameraInterface		INFO	Here4
+23-01-2016 08:56:40	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:40	CameraInterface		INFO	Here5
+23-01-2016 08:56:41	CameraInterface		INFO	Here1
+23-01-2016 08:56:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:41	CameraInterface		INFO	Here4
+23-01-2016 08:56:41	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:41	CameraInterface		INFO	Here5
+23-01-2016 08:56:41	CameraInterface		INFO	Here1
+23-01-2016 08:56:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:41	CameraInterface		INFO	Here4
+23-01-2016 08:56:41	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:41	CameraInterface		INFO	Here5
+23-01-2016 08:56:41	CameraInterface		INFO	Here1
+23-01-2016 08:56:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:41	CameraInterface		INFO	Here4
+23-01-2016 08:56:41	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:41	CameraInterface		INFO	Here5
+23-01-2016 08:56:41	CameraInterface		INFO	Here1
+23-01-2016 08:56:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:41	CameraInterface		INFO	Here4
+23-01-2016 08:56:41	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:41	CameraInterface		INFO	Here5
+23-01-2016 08:56:41	CameraInterface		INFO	Here1
+23-01-2016 08:56:41	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:41	CameraInterface		INFO	Here4
+23-01-2016 08:56:41	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:41	CameraInterface		INFO	Here5
+23-01-2016 08:56:42	CameraInterface		INFO	Here1
+23-01-2016 08:56:42	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:42	CameraInterface		INFO	Here4
+23-01-2016 08:56:42	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:42	CameraInterface		INFO	Here5
+23-01-2016 08:56:42	CameraInterface		INFO	Here1
+23-01-2016 08:56:42	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:42	CameraInterface		INFO	Here4
+23-01-2016 08:56:42	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:42	CameraInterface		INFO	Here5
+23-01-2016 08:56:42	CameraInterface		INFO	Here1
+23-01-2016 08:56:42	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:42	CameraInterface		INFO	Here4
+23-01-2016 08:56:42	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:42	CameraInterface		INFO	Here5
+23-01-2016 08:56:42	CameraInterface		INFO	Here1
+23-01-2016 08:56:42	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:42	CameraInterface		INFO	Here4
+23-01-2016 08:56:42	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:42	CameraInterface		INFO	Here5
+23-01-2016 08:56:43	CameraInterface		INFO	Here1
+23-01-2016 08:56:43	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:43	CameraInterface		INFO	Here4
+23-01-2016 08:56:43	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:43	CameraInterface		INFO	Here5
+23-01-2016 08:56:43	CameraInterface		INFO	Here1
+23-01-2016 08:56:43	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:43	CameraInterface		INFO	Here4
+23-01-2016 08:56:43	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:43	CameraInterface		INFO	Here5
+23-01-2016 08:56:43	CameraInterface		INFO	Here1
+23-01-2016 08:56:43	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:43	CameraInterface		INFO	Here4
+23-01-2016 08:56:43	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:43	CameraInterface		INFO	Here5
+23-01-2016 08:56:43	CameraInterface		INFO	Here1
+23-01-2016 08:56:43	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:43	CameraInterface		INFO	Here4
+23-01-2016 08:56:43	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:43	CameraInterface		INFO	Here5
+23-01-2016 08:56:43	CameraInterface		INFO	Here1
+23-01-2016 08:56:44	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:44	CameraInterface		INFO	Here4
+23-01-2016 08:56:44	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:44	CameraInterface		INFO	Here5
+23-01-2016 08:56:44	CameraInterface		INFO	Here1
+23-01-2016 08:56:44	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:44	CameraInterface		INFO	Here4
+23-01-2016 08:56:44	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:44	CameraInterface		INFO	Here5
+23-01-2016 08:56:44	CameraInterface		INFO	Here1
+23-01-2016 08:56:44	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:44	CameraInterface		INFO	Here4
+23-01-2016 08:56:44	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:44	CameraInterface		INFO	Here5
+23-01-2016 08:56:44	CameraInterface		INFO	Here1
+23-01-2016 08:56:44	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:44	CameraInterface		INFO	Here4
+23-01-2016 08:56:44	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:44	CameraInterface		INFO	Here5
+23-01-2016 08:56:45	CameraInterface		INFO	Here1
+23-01-2016 08:56:45	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:45	CameraInterface		INFO	Here4
+23-01-2016 08:56:45	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:45	CameraInterface		INFO	Here5
+23-01-2016 08:56:45	CameraInterface		INFO	Here1
+23-01-2016 08:56:45	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:45	CameraInterface		INFO	Here4
+23-01-2016 08:56:45	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:45	CameraInterface		INFO	Here5
+23-01-2016 08:56:45	CameraInterface		INFO	Here1
+23-01-2016 08:56:45	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:45	CameraInterface		INFO	Here4
+23-01-2016 08:56:45	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:45	CameraInterface		INFO	Here5
+23-01-2016 08:56:45	CameraInterface		INFO	Here1
+23-01-2016 08:56:45	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:45	CameraInterface		INFO	Here4
+23-01-2016 08:56:45	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:45	CameraInterface		INFO	Here5
+23-01-2016 08:56:46	CameraInterface		INFO	Here1
+23-01-2016 08:56:46	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:46	CameraInterface		INFO	Here4
+23-01-2016 08:56:46	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:46	CameraInterface		INFO	Here5
+23-01-2016 08:56:46	CameraInterface		INFO	Here1
+23-01-2016 08:56:46	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:46	CameraInterface		INFO	Here4
+23-01-2016 08:56:46	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:46	CameraInterface		INFO	Here5
+23-01-2016 08:56:46	CameraInterface		INFO	Here1
+23-01-2016 08:56:46	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:46	CameraInterface		INFO	Here4
+23-01-2016 08:56:46	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:46	CameraInterface		INFO	Here5
+23-01-2016 08:56:46	CameraInterface		INFO	Here1
+23-01-2016 08:56:46	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:46	CameraInterface		INFO	Here4
+23-01-2016 08:56:46	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:46	CameraInterface		INFO	Here5
+23-01-2016 08:56:47	CameraInterface		INFO	Here1
+23-01-2016 08:56:47	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:47	CameraInterface		INFO	Here4
+23-01-2016 08:56:47	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:47	CameraInterface		INFO	Here5
+23-01-2016 08:56:47	CameraInterface		INFO	Here1
+23-01-2016 08:56:47	CameraInterface		INFO	Camera stream is not opened
+23-01-2016 08:56:47	CameraInterface		INFO	Here4
+23-01-2016 08:56:47	CameraInterface		ERROR	Camera stream failed to read image
+23-01-2016 08:56:47	CameraInterface		INFO	Here5

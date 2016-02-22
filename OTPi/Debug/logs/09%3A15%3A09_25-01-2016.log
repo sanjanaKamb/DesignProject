@@ -1,0 +1,53 @@
+25-01-2016 09:15:09	Main		TRACE	Logger initialized.
+25-01-2016 09:15:09	PropertyReader		TRACE	Opening file: settings/settings.txt
+25-01-2016 09:15:09	PropertyReader		INFO	File opened: settings/settings.txt
+25-01-2016 09:15:09	PropertyReader		INFO	Loading properties file...
+25-01-2016 09:15:09	PropertyReader		INFO	Mapped INFO to LOGGING_LEVEL
+25-01-2016 09:15:09	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+25-01-2016 09:15:09	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+25-01-2016 09:15:09	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+25-01-2016 09:15:09	PropertyReader		DEBUG	Loaded 4 properties successfully
+25-01-2016 09:15:09	Transmitter		INFO	socket retrieve success
+25-01-2016 09:17:07	Controller		INFO	Initializing Controller
+25-01-2016 09:17:07	CameraInterface		INFO	Initializing camera
+25-01-2016 09:17:07	CameraInterface		INFO	Opening video capture stream at position 0
+25-01-2016 09:17:07	Transmitter		INFO	Starting Receiver Thread execution loop
+25-01-2016 09:17:07	Receiver		INFO	Starting Receiver Thread execution loop
+25-01-2016 09:17:07	ControllerThread		INFO	Starting Controller Thread execution loop
+25-01-2016 09:17:08	CameraInterface		INFO	Read successful
+25-01-2016 09:17:08	Transmitter		INFO	rows and cols
+25-01-2016 09:17:08	Transmitter		INFO	960
+25-01-2016 09:17:08	Transmitter		INFO	1280
+25-01-2016 09:17:08	CameraInterface		INFO	Read successful
+25-01-2016 09:17:09	CameraInterface		INFO	Read successful
+25-01-2016 09:17:09	CameraInterface		INFO	Read successful
+25-01-2016 09:17:09	CameraInterface		INFO	Read successful
+25-01-2016 09:17:10	CameraInterface		INFO	Read successful
+25-01-2016 09:17:11	CameraInterface		INFO	Read successful
+25-01-2016 09:17:11	Transmitter		INFO	rows and cols
+25-01-2016 09:17:11	Transmitter		INFO	960
+25-01-2016 09:17:11	Transmitter		INFO	1280
+25-01-2016 09:17:11	CameraInterface		INFO	Read successful
+25-01-2016 09:17:12	CameraInterface		INFO	Read successful
+25-01-2016 09:17:12	CameraInterface		INFO	Read successful
+25-01-2016 09:17:12	CameraInterface		INFO	Read successful
+25-01-2016 09:17:12	CameraInterface		INFO	Read successful
+25-01-2016 09:17:12	CameraInterface		INFO	Read successful
+25-01-2016 09:17:12	CameraInterface		INFO	Read successful
+25-01-2016 09:17:12	CameraInterface		INFO	Read successful
+25-01-2016 09:17:13	CameraInterface		INFO	Read successful
+25-01-2016 09:17:13	CameraInterface		INFO	Read successful
+25-01-2016 09:17:13	CameraInterface		INFO	Read successful
+25-01-2016 09:17:13	CameraInterface		INFO	Read successful
+25-01-2016 09:17:13	CameraInterface		INFO	Read successful
+25-01-2016 09:17:13	CameraInterface		INFO	Read successful
+25-01-2016 09:17:14	CameraInterface		INFO	Read successful
+25-01-2016 09:17:14	CameraInterface		INFO	Read successful
+25-01-2016 09:17:14	CameraInterface		INFO	Read successful
+25-01-2016 09:17:14	CameraInterface		INFO	Read successful
+25-01-2016 09:17:14	CameraInterface		INFO	Read successful
+25-01-2016 09:17:14	CameraInterface		INFO	Read successful
+25-01-2016 09:17:15	CameraInterface		INFO	Read successful
+25-01-2016 09:17:15	Transmitter		INFO	rows and cols
+25-01-2016 09:17:15	Transmitter		INFO	960
+25-01-2016 09:17:15	Transmitter		INFO	1280

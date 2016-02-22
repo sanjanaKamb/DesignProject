@@ -1,0 +1,55 @@
+20-02-2016 01:15:52	Main		TRACE	Logger initialized.
+20-02-2016 01:15:52	Main		TRACE	try1
+20-02-2016 01:15:52	Main		TRACE	try2
+20-02-2016 01:15:52	PropertyReader		TRACE	Opening file: settings/settings.txt
+20-02-2016 01:15:52	PropertyReader		INFO	File opened: settings/settings.txt
+20-02-2016 01:15:52	PropertyReader		INFO	Loading properties file...
+20-02-2016 01:15:52	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+20-02-2016 01:15:52	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+20-02-2016 01:15:52	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+20-02-2016 01:15:52	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+20-02-2016 01:15:52	PropertyReader		DEBUG	Loaded 4 properties successfully
+20-02-2016 01:15:52	Main		TRACE	try3
+20-02-2016 01:15:52	Main		TRACE	try4
+20-02-2016 01:15:52	Controller		INFO	Constructor controller
+20-02-2016 01:15:52	Controller		INFO	c1
+20-02-2016 01:15:52	Controller		INFO	c2
+20-02-2016 01:15:52	Controller		INFO	c3
+20-02-2016 01:15:52	Controller		INFO	c4
+20-02-2016 01:15:52	Controller		INFO	c5
+20-02-2016 01:15:52	Main		TRACE	intializing controller
+20-02-2016 01:15:52	Controller		INFO	Initializing Controller
+20-02-2016 01:15:52	Main		TRACE	initializing dataprocessor
+20-02-2016 01:15:52	CameraInterface		INFO	Initializing camera
+20-02-2016 01:15:52	CameraInterface		INFO	Opening video capture stream at position 0
+20-02-2016 01:15:52	ControllerThread		INFO	Starting Controller Thread execution loop
+20-02-2016 01:15:52	Receiver		INFO	Starting Receiver Thread execution loop
+20-02-2016 01:15:53	Main		TRACE	running controller
+20-02-2016 01:15:53	CameraInterface		INFO	Read successful
+20-02-2016 01:15:58	CameraInterface		INFO	Read successful
+20-02-2016 01:16:01	CameraInterface		INFO	Read successful
+20-02-2016 01:16:04	CameraInterface		INFO	Read successful
+20-02-2016 01:16:08	CameraInterface		INFO	Read successful
+20-02-2016 01:16:11	CameraInterface		INFO	Read successful
+20-02-2016 01:16:14	CameraInterface		INFO	Read successful
+20-02-2016 01:16:18	CameraInterface		INFO	Read successful
+20-02-2016 01:16:22	CameraInterface		INFO	Read successful
+20-02-2016 01:16:26	CameraInterface		INFO	Read successful
+20-02-2016 01:16:29	CameraInterface		INFO	Read successful
+20-02-2016 01:16:33	CameraInterface		INFO	Read successful
+20-02-2016 01:16:36	CameraInterface		INFO	Read successful
+20-02-2016 01:16:40	CameraInterface		INFO	Read successful
+20-02-2016 01:16:44	CameraInterface		INFO	Read successful
+20-02-2016 01:16:47	CameraInterface		INFO	Read successful
+20-02-2016 01:16:51	CameraInterface		INFO	Read successful
+20-02-2016 01:16:55	CameraInterface		INFO	Read successful
+20-02-2016 01:16:58	CameraInterface		INFO	Read successful
+20-02-2016 01:17:02	CameraInterface		INFO	Read successful
+20-02-2016 01:17:06	CameraInterface		INFO	Read successful
+20-02-2016 01:17:09	CameraInterface		INFO	Read successful
+20-02-2016 01:17:13	CameraInterface		INFO	Read successful
+20-02-2016 01:17:17	CameraInterface		INFO	Read successful
+20-02-2016 01:17:21	CameraInterface		INFO	Read successful
+20-02-2016 01:17:26	CameraInterface		INFO	Read successful
+20-02-2016 01:17:29	CameraInterface		INFO	Read successful
+20-02-2016 01:17:33	CameraInterface		INFO	Read successful

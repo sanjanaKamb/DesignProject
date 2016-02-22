@@ -1,0 +1,71 @@
+26-01-2016 11:45:40	Main		TRACE	Logger initialized.
+26-01-2016 11:45:40	PropertyReader		TRACE	Opening file: settings/settings.txt
+26-01-2016 11:45:40	PropertyReader		INFO	File opened: settings/settings.txt
+26-01-2016 11:45:40	PropertyReader		INFO	Loading properties file...
+26-01-2016 11:45:40	PropertyReader		INFO	Mapped INFO to LOGGING_LEVEL
+26-01-2016 11:45:40	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+26-01-2016 11:45:40	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+26-01-2016 11:45:40	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+26-01-2016 11:45:40	PropertyReader		DEBUG	Loaded 4 properties successfully
+26-01-2016 11:45:40	Transmitter		INFO	socket retrieve success
+26-01-2016 11:47:27	Controller		INFO	Initializing Controller
+26-01-2016 11:47:27	CameraInterface		INFO	Initializing camera
+26-01-2016 11:47:27	CameraInterface		INFO	Opening video capture stream at position 0
+26-01-2016 11:47:27	Transmitter		INFO	Starting Receiver Thread execution loop
+26-01-2016 11:47:27	Receiver		INFO	Starting Receiver Thread execution loop
+26-01-2016 11:47:27	ControllerThread		INFO	Starting Controller Thread execution loop
+26-01-2016 11:47:27	CameraInterface		INFO	Read successful
+26-01-2016 11:47:28	CameraInterface		INFO	Read successful
+26-01-2016 11:47:28	CameraInterface		INFO	Read successful
+26-01-2016 11:47:28	CameraInterface		INFO	Read successful
+26-01-2016 11:47:28	CameraInterface		INFO	Read successful
+26-01-2016 11:47:28	CameraInterface		INFO	Read successful
+26-01-2016 11:47:28	CameraInterface		INFO	Read successful
+26-01-2016 11:47:29	CameraInterface		INFO	Read successful
+26-01-2016 11:47:29	CameraInterface		INFO	Read successful
+26-01-2016 11:47:29	CameraInterface		INFO	Read successful
+26-01-2016 11:47:29	CameraInterface		INFO	Read successful
+26-01-2016 11:47:29	CameraInterface		INFO	Read successful
+26-01-2016 11:47:30	CameraInterface		INFO	Read successful
+26-01-2016 11:47:30	CameraInterface		INFO	Read successful
+26-01-2016 11:47:30	CameraInterface		INFO	Read successful
+26-01-2016 11:47:30	CameraInterface		INFO	Read successful
+26-01-2016 11:47:30	CameraInterface		INFO	Read successful
+26-01-2016 11:47:31	CameraInterface		INFO	Read successful
+26-01-2016 11:47:31	CameraInterface		INFO	Read successful
+26-01-2016 11:47:31	CameraInterface		INFO	Read successful
+26-01-2016 11:47:31	CameraInterface		INFO	Read successful
+26-01-2016 11:47:31	CameraInterface		INFO	Read successful
+26-01-2016 11:47:32	CameraInterface		INFO	Read successful
+26-01-2016 11:47:32	CameraInterface		INFO	Read successful
+26-01-2016 11:47:32	CameraInterface		INFO	Read successful
+26-01-2016 11:47:32	CameraInterface		INFO	Read successful
+26-01-2016 11:47:32	CameraInterface		INFO	Read successful
+26-01-2016 11:47:33	CameraInterface		INFO	Read successful
+26-01-2016 11:47:33	CameraInterface		INFO	Read successful
+26-01-2016 11:47:33	CameraInterface		INFO	Read successful
+26-01-2016 11:47:33	CameraInterface		INFO	Read successful
+26-01-2016 11:47:33	CameraInterface		INFO	Read successful
+26-01-2016 11:47:34	CameraInterface		INFO	Read successful
+26-01-2016 11:47:34	CameraInterface		INFO	Read successful
+26-01-2016 11:47:34	CameraInterface		INFO	Read successful
+26-01-2016 11:47:34	CameraInterface		INFO	Read successful
+26-01-2016 11:47:34	CameraInterface		INFO	Read successful
+26-01-2016 11:47:34	CameraInterface		INFO	Read successful
+26-01-2016 11:47:35	CameraInterface		INFO	Read successful
+26-01-2016 11:47:35	CameraInterface		INFO	Read successful
+26-01-2016 11:47:35	CameraInterface		INFO	Read successful
+26-01-2016 11:47:35	CameraInterface		INFO	Read successful
+26-01-2016 11:47:35	CameraInterface		INFO	Read successful
+26-01-2016 11:47:36	CameraInterface		INFO	Read successful
+26-01-2016 11:47:36	CameraInterface		INFO	Read successful
+26-01-2016 11:47:36	CameraInterface		INFO	Read successful
+26-01-2016 11:47:36	CameraInterface		INFO	Read successful
+26-01-2016 11:47:36	CameraInterface		INFO	Read successful
+26-01-2016 11:47:37	CameraInterface		INFO	Read successful
+26-01-2016 11:47:37	CameraInterface		INFO	Read successful
+26-01-2016 11:47:37	CameraInterface		INFO	Read successful
+26-01-2016 11:47:37	CameraInterface		INFO	Read successful
+26-01-2016 11:47:37	CameraInterface		INFO	Read successful
+26-01-2016 11:47:38	CameraInterface		INFO	Read successful
+26-01-2016 11:47:38	CameraInterface		INFO	Read successful
