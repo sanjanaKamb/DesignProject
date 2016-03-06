@@ -55,6 +55,8 @@ public class MainActivity extends Activity  implements TextureView.SurfaceTextur
 
 
 
+
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -62,8 +64,10 @@ public class MainActivity extends Activity  implements TextureView.SurfaceTextur
         //play video on TextureView
         setContentView(R.layout.activity_main);
 
-        //start network thread
-       new Network().execute("");
+
+        //start network threads
+      new NetworkSend().execute("");
+      //new NetworkListen().execute("");
 
 
         ImageView iv = (ImageView) findViewById(R.id.imageView1);
@@ -92,6 +96,7 @@ public class MainActivity extends Activity  implements TextureView.SurfaceTextur
         //add drawView to layout
         ViewGroup mainView = (ViewGroup) findViewById(R.id.rootView);
         drawView = new DrawView(this);
+
         drawView.requestFocus();
         mainView.addView(drawView);
     }
@@ -105,6 +110,7 @@ public class MainActivity extends Activity  implements TextureView.SurfaceTextur
         //mTextureView.setSurfaceTextureListener(this);
 
     }
+
 
 
 
@@ -171,21 +177,24 @@ public class MainActivity extends Activity  implements TextureView.SurfaceTextur
     public void onSurfaceTextureUpdated(SurfaceTexture surfaceTexture) {
     }
 
-    private class Network extends AsyncTask<String, Void, String> {
+
+
+    private class NetworkListen extends AsyncTask<String, Void, String> {
 
         @Override
         protected String doInBackground(String... params) {
 
-            int portNumber = 5001;
-            String serverAddr = "192.168.0.23";
-            Socket socket = null;
+
             BufferedReader br = null;
             PrintWriter pw = null;
             InputStream is = null;
-
+            Socket socket;
             Log.e(TAG, "starting");
             try{
-                socket = new Socket(serverAddr, portNumber);
+                while((socket = PointsList.getInstance().socket)==null){
+
+                }
+
 
                 is = socket.getInputStream();
 
