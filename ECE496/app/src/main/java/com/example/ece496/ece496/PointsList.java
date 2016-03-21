@@ -11,7 +11,7 @@ import java.util.Queue;
 
     public Queue<Point> points = new LinkedList<Point>();
     private static final String TAG = "PointsList";
-    Socket socket;
+    Socket socket = null;
 
     private PointsList(){
 

@@ -14,7 +14,7 @@ public  class NetworkSend extends AsyncTask<String, Void, String> {
     Socket socket = null;
     DataOutputStream outToPi = null;
     private static final String TAG = "NetworkSend";
-    String serverAddr = "192.168.0.17";
+    String serverAddr = "192.168.0.24";
     int portNumber = 5001;
 
 
@@ -22,12 +22,14 @@ public  class NetworkSend extends AsyncTask<String, Void, String> {
 
     @Override
     protected String doInBackground(String... params) {
+        Log.e(TAG, "In NetworkSend");
         try {
             socket = new Socket(serverAddr, portNumber);
         }catch(Exception e){
             Log.e(TAG, "" + e.getMessage());
         }
         PointsList.getInstance().socket = socket;
+        Log.e(TAG, "socket set");
 
         try{
             outToPi = new DataOutputStream(socket.getOutputStream());
@@ -35,7 +37,7 @@ public  class NetworkSend extends AsyncTask<String, Void, String> {
             Log.e(TAG, e.getMessage());
         }
 
-
+        Log.e(TAG, "Entering while loop");
         while(true){
             if(PointsList.getInstance().points.size()>0){
                Point point = PointsList.getInstance().points.remove();
