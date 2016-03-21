@@ -1,0 +1,517 @@
+20-03-2016 11:17:48	Main		TRACE	Logger initialized.
+20-03-2016 11:17:48	PropertyReader		TRACE	Opening file: settings/settings.txt
+20-03-2016 11:17:48	PropertyReader		INFO	File opened: settings/settings.txt
+20-03-2016 11:17:48	PropertyReader		INFO	Loading properties file...
+20-03-2016 11:17:48	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+20-03-2016 11:17:48	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+20-03-2016 11:17:48	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+20-03-2016 11:17:48	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+20-03-2016 11:17:48	PropertyReader		DEBUG	Loaded 4 properties successfully
+20-03-2016 11:17:48	Controller		INFO	Constructor controller
+20-03-2016 11:17:48	Controller		INFO	socket retrieve success
+20-03-2016 11:17:48	Controller		INFO	binding done
+20-03-2016 11:17:48	Controller		INFO	done listening
+20-03-2016 11:17:54	Controller		INFO	accepting
+20-03-2016 11:17:54	Main		TRACE	intializing controller
+20-03-2016 11:17:54	Controller		INFO	Initializing Controller
+20-03-2016 11:17:54	Main		TRACE	initializing dataprocessor
+20-03-2016 11:17:54	CameraInterface		INFO	Initializing camera
+20-03-2016 11:17:54	CameraInterface		INFO	Opening video capture stream at position 0
+20-03-2016 11:17:54	Receiver		INFO	Starting Receiver Thread execution loop
+20-03-2016 11:17:54	Transmitter		INFO	Starting Receiver Thread execution loop
+20-03-2016 11:17:54	ControllerThread		INFO	Starting Controller Thread execution loop
+20-03-2016 11:17:54	Main		TRACE	running controller
+20-03-2016 11:17:54	DataProcessor		INFO	polling
+20-03-2016 11:17:54	CameraInterface		INFO	Read successful
+20-03-2016 11:17:56	Receiver		INFO	422.0, 522.0
+
+20-03-2016 11:17:56	Receiver		INFO	422.0, 522.0
+
+20-03-2016 11:17:56	Controller		INFO	sending to transmitter
+20-03-2016 11:17:56	Transmitter		INFO	pushing into buff
+20-03-2016 11:17:56	Transmitter		INFO	getting from buffer
+20-03-2016 11:17:57	Receiver		INFO	443.0, 579.0
+
+20-03-2016 11:17:57	Receiver		INFO	443.0, 579.0
+
+20-03-2016 11:17:58	Receiver		INFO	442.0, 593.0
+
+20-03-2016 11:17:58	Receiver		INFO	442.0, 593.0
+
+20-03-2016 11:17:59	Transmitter		INFO	sending string: 3653
+20-03-2016 11:17:59	Receiver		INFO	436.0, 614.0
+
+20-03-2016 11:17:59	Receiver		INFO	436.0, 614.0
+
+20-03-2016 11:18:00	Receiver		INFO	436.0, 614.0
+
+20-03-2016 11:18:00	Receiver		INFO	436.0, 614.0
+
+20-03-2016 11:18:01	Receiver		INFO	439.0, 623.0
+
+20-03-2016 11:18:01	Receiver		INFO	439.0, 623.0
+
+20-03-2016 11:18:01	DataProcessor		INFO	polling
+20-03-2016 11:18:01	CameraInterface		INFO	Read successful
+20-03-2016 11:18:02	Receiver		INFO	444.0, 637.0
+
+20-03-2016 11:18:02	Receiver		INFO	446.0, 638.0
+
+20-03-2016 11:18:02	Receiver		INFO	446.0, 638.0
+
+20-03-2016 11:18:04	Receiver		INFO	450.0, 645.0
+
+20-03-2016 11:18:04	Receiver		INFO	450.0, 645.0
+
+20-03-2016 11:18:04	Controller		INFO	sending to transmitter
+20-03-2016 11:18:04	Transmitter		INFO	pushing into buff
+20-03-2016 11:18:04	Transmitter		INFO	getting from buffer
+20-03-2016 11:18:05	Receiver		INFO	452.0, 648.0
+
+20-03-2016 11:18:05	Receiver		INFO	452.0, 648.0
+
+20-03-2016 11:18:06	Receiver		INFO	449.0, 647.0
+
+20-03-2016 11:18:06	Receiver		INFO	449.0, 647.0
+
+20-03-2016 11:18:06	Transmitter		INFO	sending string: 175349
+20-03-2016 11:18:07	Receiver		INFO	459.0, 645.0
+
+20-03-2016 11:18:08	Receiver		INFO	459.0, 645.0
+
+20-03-2016 11:18:09	DataProcessor		INFO	polling
+20-03-2016 11:18:09	CameraInterface		INFO	Read successful
+20-03-2016 11:18:10	Receiver		INFO	466.0, 649.0
+
+20-03-2016 11:18:10	Receiver		INFO	466.0, 649.0
+
+20-03-2016 11:18:11	Controller		INFO	sending to transmitter
+20-03-2016 11:18:11	Transmitter		INFO	pushing into buff
+20-03-2016 11:18:11	Transmitter		INFO	getting from buffer
+20-03-2016 11:18:11	Receiver		INFO	461.0, 639.0
+
+20-03-2016 11:18:11	Receiver		INFO	461.0, 639.0
+
+20-03-2016 11:18:13	Transmitter		INFO	sending string: 179496
+20-03-2016 11:18:14	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:14	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:16	DataProcessor		INFO	polling
+20-03-2016 11:18:16	CameraInterface		INFO	Read successful
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:17	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:18	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+
+20-03-2016 11:18:19	Receiver		INFO	465.0, 651.0
+

@@ -1,0 +1,49 @@
+17-03-2016 05:43:20	Main		TRACE	Logger initialized.
+17-03-2016 05:43:20	PropertyReader		TRACE	Opening file: settings/settings.txt
+17-03-2016 05:43:20	PropertyReader		INFO	File opened: settings/settings.txt
+17-03-2016 05:43:20	PropertyReader		INFO	Loading properties file...
+17-03-2016 05:43:20	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+17-03-2016 05:43:20	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+17-03-2016 05:43:20	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+17-03-2016 05:43:20	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+17-03-2016 05:43:20	PropertyReader		DEBUG	Loaded 4 properties successfully
+17-03-2016 05:43:20	Controller		INFO	Constructor controller
+17-03-2016 05:43:20	Transmitter		INFO	socket retrieve success
+17-03-2016 05:43:20	Transmitter		INFO	binding done
+17-03-2016 05:43:20	Transmitter		INFO	done listening
+17-03-2016 05:44:44	Transmitter		INFO	accepting
+17-03-2016 05:44:44	Main		TRACE	intializing controller
+17-03-2016 05:44:44	Controller		INFO	Initializing Controller
+17-03-2016 05:44:44	Main		TRACE	initializing dataprocessor
+17-03-2016 05:44:44	CameraInterface		INFO	Initializing camera
+17-03-2016 05:44:44	CameraInterface		INFO	Opening video capture stream at position 0
+17-03-2016 05:44:44	Transmitter		INFO	Starting Receiver Thread execution loop
+17-03-2016 05:44:44	ControllerThread		INFO	Starting Controller Thread execution loop
+17-03-2016 05:44:44	Receiver		INFO	Starting Receiver Thread execution loop
+17-03-2016 05:44:44	Receiver		INFO	Received point: 393.45, 450.68
+17-03-2016 05:44:44	Receiver		INFO	Received point: 100.0, 50.9
+17-03-2016 05:44:44	Receiver		INFO	Received point: 170.784, 410.45
+17-03-2016 05:44:44	Main		TRACE	running controller
+17-03-2016 05:44:44	DataProcessor		INFO	polling
+17-03-2016 05:44:44	CameraInterface		INFO	Read successful
+17-03-2016 05:44:45	Controller		INFO	sending to transmitter
+17-03-2016 05:44:45	Transmitter		INFO	pushing into buff
+17-03-2016 05:44:45	Transmitter		INFO	getting from buffer
+17-03-2016 05:44:48	Transmitter		INFO	sending string: 3653
+17-03-2016 05:44:50	DataProcessor		INFO	polling
+17-03-2016 05:44:50	CameraInterface		INFO	Read successful
+17-03-2016 05:44:50	Controller		INFO	sending to transmitter
+17-03-2016 05:44:50	Transmitter		INFO	pushing into buff
+17-03-2016 05:44:50	Transmitter		INFO	getting from buffer
+17-03-2016 05:44:53	Transmitter		INFO	sending string: 3653
+17-03-2016 05:44:55	DataProcessor		INFO	polling
+17-03-2016 05:44:55	CameraInterface		INFO	Read successful
+17-03-2016 05:44:55	Controller		INFO	sending to transmitter
+17-03-2016 05:44:55	Transmitter		INFO	pushing into buff
+17-03-2016 05:44:55	Transmitter		INFO	getting from buffer
+17-03-2016 05:44:58	Transmitter		INFO	sending string: 3653
+17-03-2016 05:45:00	DataProcessor		INFO	polling
+17-03-2016 05:45:00	CameraInterface		INFO	Read successful
+17-03-2016 05:45:00	Controller		INFO	sending to transmitter
+17-03-2016 05:45:00	Transmitter		INFO	pushing into buff
+17-03-2016 05:45:00	Transmitter		INFO	getting from buffer

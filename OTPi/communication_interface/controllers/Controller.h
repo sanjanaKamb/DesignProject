@@ -19,7 +19,9 @@
 #include <thread>
 
 
+
 class Receiver;
+class Transmitter;
 
 class Controller {
 

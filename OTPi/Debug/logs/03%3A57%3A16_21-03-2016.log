@@ -1,0 +1,93 @@
+21-03-2016 03:57:16	Main		TRACE	Logger initialized.
+21-03-2016 03:57:16	PropertyReader		TRACE	Opening file: settings/settings.txt
+21-03-2016 03:57:16	PropertyReader		INFO	File opened: settings/settings.txt
+21-03-2016 03:57:16	PropertyReader		INFO	Loading properties file...
+21-03-2016 03:57:16	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+21-03-2016 03:57:16	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+21-03-2016 03:57:16	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+21-03-2016 03:57:16	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+21-03-2016 03:57:16	PropertyReader		DEBUG	Loaded 4 properties successfully
+21-03-2016 03:57:16	Controller		INFO	Constructor controller
+21-03-2016 03:57:16	Controller		INFO	socket retrieve success
+21-03-2016 03:57:16	Controller		INFO	binding done
+21-03-2016 03:57:16	Controller		INFO	done listening
+21-03-2016 03:57:18	Controller		INFO	accepting
+21-03-2016 03:57:18	Main		TRACE	intializing controller
+21-03-2016 03:57:18	Controller		INFO	Initializing Controller
+21-03-2016 03:57:18	Main		TRACE	initializing dataprocessor
+21-03-2016 03:57:18	CameraInterface		INFO	Initializing camera
+21-03-2016 03:57:18	Transmitter		INFO	Starting Receiver Thread execution loop
+21-03-2016 03:57:18	ControllerThread		INFO	Starting Controller Thread execution loop
+21-03-2016 03:57:18	Receiver		INFO	Starting Receiver Thread execution loop
+21-03-2016 03:57:18	CameraInterface		INFO	Opening video capture stream at position 0
+21-03-2016 03:57:18	Main		TRACE	running controller
+21-03-2016 03:57:18	DataProcessor		INFO	polling
+21-03-2016 03:57:18	CameraInterface		INFO	Read successful
+21-03-2016 03:57:20	Receiver		INFO	432.0, 570.0
+K¶ÀP
+21-03-2016 03:57:20	Receiver		INFO	erase space 432.0,570.0
+K¶ÀP
+21-03-2016 03:57:20	Receiver		INFO	token 432.0
+21-03-2016 03:57:20	Receiver		INFO	token 570.0
+K¶ÀP
+21-03-2016 03:57:20	Controller		INFO	sending to transmitter
+21-03-2016 03:57:20	Transmitter		INFO	pushing into buff
+21-03-2016 03:57:20	Transmitter		INFO	getting from buffer
+21-03-2016 03:57:23	Receiver		INFO	429.0, 567.0
+K¶ÀP
+21-03-2016 03:57:23	Receiver		INFO	erase space 429.0,567.0
+K¶ÀP
+21-03-2016 03:57:23	Receiver		INFO	token 429.0
+21-03-2016 03:57:23	Receiver		INFO	token 567.0
+K¶ÀP
+21-03-2016 03:57:23	Transmitter		INFO	sending string: 6185
+21-03-2016 03:57:25	Receiver		INFO	440.0, 558.0
+K¶ÀP
+21-03-2016 03:57:25	Receiver		INFO	erase space 440.0,558.0
+K¶ÀP
+21-03-2016 03:57:25	Receiver		INFO	token 440.0
+21-03-2016 03:57:25	Receiver		INFO	token 558.0
+K¶ÀP
+21-03-2016 03:57:25	DataProcessor		INFO	polling
+21-03-2016 03:57:26	CameraInterface		INFO	Read successful
+21-03-2016 03:57:27	Receiver		INFO	453.0, 606.0
+K¶ÀP
+21-03-2016 03:57:27	Receiver		INFO	erase space 453.0,606.0
+K¶ÀP
+21-03-2016 03:57:27	Receiver		INFO	token 453.0
+21-03-2016 03:57:27	Receiver		INFO	token 606.0
+K¶ÀP
+21-03-2016 03:57:28	Controller		INFO	sending to transmitter
+21-03-2016 03:57:28	Transmitter		INFO	pushing into buff
+21-03-2016 03:57:28	Transmitter		INFO	getting from buffer
+21-03-2016 03:57:29	Receiver		INFO	423.0, 640.0
+K¶ÀP
+21-03-2016 03:57:29	Receiver		INFO	erase space 423.0,640.0
+K¶ÀP
+21-03-2016 03:57:29	Receiver		INFO	token 423.0
+21-03-2016 03:57:29	Receiver		INFO	token 640.0
+K¶ÀP
+21-03-2016 03:57:30	Receiver		INFO	413.0, 654.0
+K¶ÀP
+21-03-2016 03:57:30	Receiver		INFO	erase space 413.0,654.0
+K¶ÀP
+21-03-2016 03:57:30	Receiver		INFO	token 413.0
+21-03-2016 03:57:30	Receiver		INFO	token 654.0
+K¶ÀP
+21-03-2016 03:57:30	Transmitter		INFO	sending string: 8519
+21-03-2016 03:57:31	Receiver		INFO	426.0, 625.0
+K¶ÀP
+21-03-2016 03:57:31	Receiver		INFO	erase space 426.0,625.0
+K¶ÀP
+21-03-2016 03:57:31	Receiver		INFO	token 426.0
+21-03-2016 03:57:31	Receiver		INFO	token 625.0
+K¶ÀP
+21-03-2016 03:57:32	Receiver		INFO	425.0, 633.0
+K¶ÀP
+21-03-2016 03:57:32	Receiver		INFO	erase space 425.0,633.0
+K¶ÀP
+21-03-2016 03:57:32	Receiver		INFO	token 425.0
+21-03-2016 03:57:32	Receiver		INFO	token 633.0
+K¶ÀP
+21-03-2016 03:57:33	DataProcessor		INFO	polling
+21-03-2016 03:57:33	CameraInterface		INFO	Read successful

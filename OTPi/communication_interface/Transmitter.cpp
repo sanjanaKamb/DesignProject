@@ -1,37 +1,8 @@
 #include "Transmitter.h"
 #include "controllers/Controller.h"
 
-Transmitter::Transmitter(int port) {
-	int listenfd = 0;
-        connfd = 0;
-        struct sockaddr_in serv_addr;
-        
-        listenfd = socket(AF_INET, SOCK_STREAM, 0);
-        if(listenfd == -1){
-            logger->error("Could not create socket");
-            return;
-        }
-        logger->info("socket retrieve success");
-        
-        memset(&serv_addr, '0', sizeof(serv_addr));
-        serv_addr.sin_family = AF_INET;    
-        serv_addr.sin_addr.s_addr = htonl(INADDR_ANY); 
-        serv_addr.sin_port = htons(port);  
-        
-        bind(listenfd, (struct sockaddr*)&serv_addr,sizeof(serv_addr));
-	logger->info("binding done");
-        
-        if(listen(listenfd, 10) == -1){
-            logger->error("Failed to listen");
-            return;
-        }
-        logger->info("done listening");
-        connfd = accept(listenfd, (struct sockaddr*)NULL ,NULL); // accept awaiting request
-	logger->info("accepting");
-        if (connfd<0){
-            logger->error("Accept Failed");
-        }
-
+Transmitter::Transmitter(int fd) {
+	connfd= fd;
 }
 
 Transmitter::~Transmitter() {
@@ -55,41 +26,22 @@ void* Transmitter::run() {
 	//while (Controller::isRunning()){
 while (true){
 
-		logger->info("running");
-		//pthread_mutex_lock(&mutex);
+		if(dataProcessor->isSendNotification){
+			const char *notify = "notification\r\n";
+               		write(connfd, notify, strlen(notify ));	
+			dataProcessor->isSendNotification = false;
+			continue;
+		}
+		
                 if(buffer.empty()){
-                  // pthread_mutex_unlock(&mutex);
                     continue;
                 }
 
 		logger->info("getting from buffer");
-                cv::Mat img = buffer.front();
-                //std::vector<uchar> sendString = buffer.front();
-                
-                //uchar* frameBuf = &sendString[0];
-                //std::string frameString(reinterpret_cast<char*>(frameBuf)); 
-                
-                //logger->info(frameString);
-              
+                cv::Mat img = buffer.front();                             
                 
                 buffer.pop();          
-		//pthread_mutex_unlock(&mutex);
-                
-
-                //decode
-                /*Mat image = imdecode(Mat(sendString),CV_LOAD_IMAGE_COLOR);
-                ImgData* new_data;
-                new_data = new ImgData("raw", image);
-                new_data->showImg("test");*/
-                /*std::string fString(reinterpret_cast<char*>(frameBuf));
-                const char *cstr = fString.c_str();
-                write(connfd, cstr, strlen(cstr));*/
-                
-                /*img = (img.reshape(0,1)); // to make it continuous
-                int  imgSize = img.total()*img.elemSize();
-                 byte * imgBytes = new byte[imgSize]; 
-                 std::memcpy(imgBytes,img.data,imgSize * sizeof(byte));*/
-                
+		                
                 vector<uchar> buf;
                 vector<int> params = vector<int>(2);
                 params.push_back(IMWRITE_PNG_COMPRESSION);

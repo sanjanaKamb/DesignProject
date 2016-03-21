@@ -4,14 +4,18 @@
 #include <string>
 #include <queue>
 #include <pthread.h>
+#include <stdlib.h> 
+
 
 #include "controllers/Controller.h"
 
 class Controller;
-
+using namespace std;
 class Receiver {
+
+
 public:
-	Receiver(Controller* controller);
+	Receiver(int fd);
 	virtual ~Receiver();
 
 	/**
@@ -20,6 +24,7 @@ public:
 	 * @return std::string null if buffer is empty
 	 */
 	std::string poll();
+	std::string removespace(string line);
 
 	void start();
 
@@ -29,8 +34,12 @@ public:
 	 * Trampoline function
 	 */
 	static void* runEntry(void* self);
+	DataProcessor* dataProcessor;
+
 
 private:
+	int connfd;
+
 	Logger* logger = new Logger("Receiver");
 
 	Controller* controller;

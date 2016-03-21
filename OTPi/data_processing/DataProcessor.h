@@ -8,6 +8,12 @@
 
 class DataProcessor {
 public:
+	bool isOoiDefined; //TODO: set this to true
+	bool isRegionDefined;
+	bool isSendNotification;
+	cv::Point ooi; //TODO: ooi.x .. ooi.y setPoint
+	cv::Point topleft;
+	cv::Point topright;
 	DataProcessor(Properties* properties);
 	virtual ~DataProcessor();
 

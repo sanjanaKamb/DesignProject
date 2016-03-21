@@ -1,0 +1,128 @@
+21-03-2016 04:30:39	Main		TRACE	Logger initialized.
+21-03-2016 04:30:39	PropertyReader		TRACE	Opening file: settings/settings.txt
+21-03-2016 04:30:39	PropertyReader		INFO	File opened: settings/settings.txt
+21-03-2016 04:30:39	PropertyReader		INFO	Loading properties file...
+21-03-2016 04:30:39	PropertyReader		INFO	Mapped TRACE to LOGGING_LEVEL
+21-03-2016 04:30:39	PropertyReader		INFO	Mapped 100 to CAM_BUFFER_SIZE
+21-03-2016 04:30:39	PropertyReader		INFO	Mapped 15 to CAM_POLL_FREQUENCY
+21-03-2016 04:30:39	PropertyReader		INFO	Mapped 0 to CAM_INDEX
+21-03-2016 04:30:39	PropertyReader		DEBUG	Loaded 4 properties successfully
+21-03-2016 04:30:39	Controller		INFO	Constructor controller
+21-03-2016 04:30:39	Controller		INFO	socket retrieve success
+21-03-2016 04:30:39	Controller		INFO	binding done
+21-03-2016 04:30:39	Controller		INFO	done listening
+21-03-2016 04:30:42	Controller		INFO	accepting
+21-03-2016 04:30:42	Main		TRACE	intializing controller
+21-03-2016 04:30:42	Controller		INFO	Initializing Controller
+21-03-2016 04:30:42	Main		TRACE	initializing dataprocessor
+21-03-2016 04:30:42	ControllerThread		INFO	Starting Controller Thread execution loop
+21-03-2016 04:30:42	Transmitter		INFO	Starting Receiver Thread execution loop
+21-03-2016 04:30:42	CameraInterface		INFO	Initializing camera
+21-03-2016 04:30:42	CameraInterface		INFO	Opening video capture stream at position 0
+21-03-2016 04:30:42	Receiver		INFO	Starting Receiver Thread execution loop
+21-03-2016 04:30:43	Main		TRACE	running controller
+21-03-2016 04:30:43	DataProcessor		INFO	polling
+21-03-2016 04:30:43	CameraInterface		INFO	Read successful
+21-03-2016 04:30:45	Receiver		INFO	416.0, 493.0
+
+21-03-2016 04:30:45	Receiver		INFO	erase space 416.0,493.0
+
+21-03-2016 04:30:45	Receiver		INFO	token2 416
+21-03-2016 04:30:45	Receiver		INFO	token2 493
+21-03-2016 04:30:45	Receiver		INFO	417.0, 489.7519
+
+21-03-2016 04:30:45	Receiver		INFO	erase space 417.0,489.7519
+
+21-03-2016 04:30:45	Receiver		INFO	token2 417
+21-03-2016 04:30:45	Receiver		INFO	token2 489
+21-03-2016 04:30:45	DataProcessor		INFO	Here in OoiDefined 417,489
+21-03-2016 04:30:45	Controller		INFO	sending to transmitter
+21-03-2016 04:30:45	Transmitter		INFO	pushing into buff
+21-03-2016 04:30:45	Transmitter		INFO	getting from buffer
+21-03-2016 04:30:47	Transmitter		INFO	sending string: 3712
+21-03-2016 04:30:50	DataProcessor		INFO	polling
+21-03-2016 04:30:50	CameraInterface		INFO	Read successful
+21-03-2016 04:30:52	Controller		INFO	sending to transmitter
+21-03-2016 04:30:52	Transmitter		INFO	pushing into buff
+21-03-2016 04:30:52	Transmitter		INFO	getting from buffer
+21-03-2016 04:30:55	Transmitter		INFO	sending string: 3872
+21-03-2016 04:30:57	DataProcessor		INFO	polling
+21-03-2016 04:30:58	CameraInterface		INFO	Read successful
+21-03-2016 04:30:59	Receiver		INFO	406.0, 619.0
+19
+
+21-03-2016 04:30:59	Receiver		INFO	erase space 406.0,619.0
+19
+
+21-03-2016 04:30:59	Receiver		INFO	token2 406
+21-03-2016 04:30:59	Receiver		INFO	token2 619
+21-03-2016 04:31:00	DataProcessor		INFO	Here in OoiDefined 406,619
+21-03-2016 04:31:00	Controller		INFO	sending to transmitter
+21-03-2016 04:31:00	Transmitter		INFO	pushing into buff
+21-03-2016 04:31:00	Transmitter		INFO	getting from buffer
+21-03-2016 04:31:02	Receiver		INFO	401.11847, 625.94073
+
+21-03-2016 04:31:02	Receiver		INFO	erase space 401.11847,625.94073
+
+21-03-2016 04:31:02	Receiver		INFO	token2 401
+21-03-2016 04:31:02	Receiver		INFO	token2 625
+21-03-2016 04:31:02	Transmitter		INFO	sending string: 3870
+21-03-2016 04:31:05	DataProcessor		INFO	polling
+21-03-2016 04:31:05	CameraInterface		INFO	Read successful
+21-03-2016 04:31:06	Receiver		INFO	364.0, 620.0
+5.94073
+
+21-03-2016 04:31:06	Receiver		INFO	erase space 364.0,620.0
+5.94073
+
+21-03-2016 04:31:06	Receiver		INFO	token2 364
+21-03-2016 04:31:06	Receiver		INFO	token2 620
+21-03-2016 04:31:06	Receiver		INFO	339.12256, 608.12256
+
+21-03-2016 04:31:06	Receiver		INFO	erase space 339.12256,608.12256
+
+21-03-2016 04:31:06	Receiver		INFO	token2 339
+21-03-2016 04:31:06	Receiver		INFO	token2 608
+21-03-2016 04:31:07	DataProcessor		INFO	Here in OoiDefined 339,608
+21-03-2016 04:31:07	Controller		INFO	sending to transmitter
+21-03-2016 04:31:07	Transmitter		INFO	pushing into buff
+21-03-2016 04:31:07	Transmitter		INFO	getting from buffer
+21-03-2016 04:31:09	Transmitter		INFO	sending string: 4698
+21-03-2016 04:31:12	DataProcessor		INFO	polling
+21-03-2016 04:31:12	CameraInterface		INFO	Read successful
+21-03-2016 04:31:12	Receiver		INFO	350.5, 557.0
+338.0, 607.0
+
+21-03-2016 04:31:12	Receiver		INFO	erase space 350.5,557.0
+338.0,607.0
+
+21-03-2016 04:31:12	Receiver		INFO	token2 350
+21-03-2016 04:31:12	Receiver		INFO	token2 557
+21-03-2016 04:31:12	Receiver		INFO	token2 607
+21-03-2016 04:31:14	DataProcessor		INFO	Here in OoiDefined 350,557
+21-03-2016 04:31:14	Controller		INFO	sending to transmitter
+21-03-2016 04:31:14	Transmitter		INFO	pushing into buff
+21-03-2016 04:31:14	Transmitter		INFO	getting from buffer
+21-03-2016 04:31:16	Transmitter		INFO	sending string: 3902
+21-03-2016 04:31:19	DataProcessor		INFO	polling
+21-03-2016 04:31:19	CameraInterface		INFO	Read successful
+21-03-2016 04:31:21	Controller		INFO	sending to transmitter
+21-03-2016 04:31:21	Transmitter		INFO	pushing into buff
+21-03-2016 04:31:22	Transmitter		INFO	getting from buffer
+21-03-2016 04:31:24	Transmitter		INFO	sending string: 5074
+21-03-2016 04:31:24	Receiver		INFO	389.0, 589.0
+338.0, 607.0
+
+21-03-2016 04:31:24	Receiver		INFO	erase space 389.0,589.0
+338.0,607.0
+
+21-03-2016 04:31:24	Receiver		INFO	token2 389
+21-03-2016 04:31:24	Receiver		INFO	token2 589
+21-03-2016 04:31:24	Receiver		INFO	token2 607
+21-03-2016 04:31:27	DataProcessor		INFO	polling
+21-03-2016 04:31:27	CameraInterface		INFO	Read successful
+21-03-2016 04:31:29	DataProcessor		INFO	Here in OoiDefined 389,589
+21-03-2016 04:31:29	Controller		INFO	sending to transmitter
+21-03-2016 04:31:29	Transmitter		INFO	pushing into buff
+21-03-2016 04:31:29	Transmitter		INFO	getting from buffer
+21-03-2016 04:31:31	Transmitter		INFO	sending string: 5318

@@ -15,14 +15,14 @@
 #include "../util/Logger.h"
 #include "opencv2/core/core.hpp"
 #include "opencv2/highgui/highgui.hpp"
-
+#include "controllers/Controller.h"
 
 using namespace std;
 using namespace cv;
-
+class Controller;
 class Transmitter {
 public:
-	Transmitter(int port);
+	Transmitter(int fd);
 	virtual ~Transmitter();
 
 	void send(cv::Mat message);
@@ -35,7 +35,7 @@ public:
 	 * Trampoline function
 	 */
 	static void* runEntry(void* self);
-
+	DataProcessor* dataProcessor;
 private:
 
 	int connfd;
