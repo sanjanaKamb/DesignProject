@@ -12,7 +12,6 @@ import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
-import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 import android.view.ViewGroup;
 import android.widget.ImageView;
@@ -85,14 +84,12 @@ public class MainActivity extends Activity {
         resultIntent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP|Intent.FLAG_ACTIVITY_SINGLE_TOP);
         final PendingIntent resultPendingIntent =PendingIntent.getActivity(this, 0, resultIntent, 0);
         long when = System.currentTimeMillis(); //now
-        /* final Notification notification = new Notification(R.drawable.notification_template_icon_bg,"Object of interest has moved",when);
-        notification.setLatestEventInfo(this,"Object of interest has moved","Press to view camera feed",resultPendingIntent); */
-        NotificationCompat.Builder builder = new NotificationCompat.Builder(
-                this);
-        final Notification notification = builder.setContentIntent(resultPendingIntent)
-                .setSmallIcon(R.drawable.notification_template_icon_bg).setTicker("Object of interest has moved").setWhen(when)
-                .setAutoCancel(true).setContentTitle("Object of interest has moved")
-                .setContentText("Press to view camera feed").build();
+        final Notification notification = new Notification.Builder(this)
+                .setContentTitle("Object of interest has moved")
+                .setContentText("Press to view camera feed").setSmallIcon(R.drawable.notification_template_icon_bg)
+                .setContentIntent(resultPendingIntent).build();
+        //new Notification(R.drawable.notification_template_icon_bg,"Object of interest has moved",when);
+        //notification.setLatestEventInfo(this,"Object of interest has moved","Press to view camera feed",resultPendingIntent);
 
             //Get image from bitmap and display on screen
             iv.post(new Runnable() {
