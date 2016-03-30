@@ -36,6 +36,8 @@ while (true){
             	dataProcessor->isRegionDefined = false;
             	dataProcessor->isOoiDefined = false;
             	dataProcessor->isFirstFrameDefined = false;
+            	dataProcessor->sentOnce = false;
+            	dataProcessor->cropCounter = 0;
             	once=false;
             	continue;
             }else{

@@ -12,6 +12,8 @@ public:
 	bool isRegionDefined = false;
 	bool isSendNotification = false;
 	bool isFirstFrameDefined = false;
+	bool sentOnce = false;
+	int cropCounter = 0;
 	cv::Point ooi; //TODO: ooi.x .. ooi.y setPoint
 	cv::Point topleft;
 	cv::Point topright;

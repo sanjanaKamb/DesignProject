@@ -5,6 +5,8 @@ DataProcessor::DataProcessor(Properties* properties) {
 	isRegionDefined = false;
 	isSendNotification = false;
 	isFirstFrameDefined = false;
+	sentOnce = false;
+	cropCounter = 0;
 	cameraInterface = new CameraInterface(std::stoi(properties->getProperty("CAM_INDEX")));
 
 }
@@ -101,28 +103,41 @@ ImgData* DataProcessor::run() {
 		//croppedRef.copyTo(cropped);
 		src(myROI).copyTo(cropped);
 		//crop image, set to temp
-
-		if(!isFirstFrameDefined){
-			cv::cvtColor( cropped, src_gray, CV_BGR2GRAY );
-			cv::blur( src_gray, src_blur, cv::Size(3,3) );
-			src_blur.copyTo(first_frame);
-			isFirstFrameDefined = true;
-			temp->setImg(cropped);
-		}
-		else{
-			//TODO: send alert event if any movement
-
-			cv::cvtColor( cropped, src_gray, CV_BGR2GRAY );
-			cv::blur( src_gray, src_blur, cv::Size(3,3) );
-			cv::absdiff( first_frame, src_blur, src_diff);
-			cv::threshold(src_diff, diff_threshold, 25, 255, CV_THRESH_BINARY);
-			double sum = cv::sum(diff_threshold)[0] + cv::sum(diff_threshold)[1] + cv::sum(diff_threshold)[2];
-			if (sum > 5){
-				logger->info("Sendnotification is being set to true and sum is:"+std::to_string(sum));
-				isSendNotification=true;
+		if(!sentOnce){
+			if(!isFirstFrameDefined){
+				cv::cvtColor( cropped, src_gray, CV_BGR2GRAY );
+				cv::blur( src_gray, src_blur, cv::Size(3,3) );
+				src_blur.copyTo(first_frame);
+				isFirstFrameDefined = true;
 			}
-			temp->setImg(diff_threshold);
+			else{
+				//TODO: send alert event if any movement
+
+				cv::cvtColor( cropped, src_gray, CV_BGR2GRAY );
+				cv::blur( src_gray, src_blur, cv::Size(3,3) );
+				cv::absdiff( first_frame, src_blur, src_diff);
+				cv::threshold(src_diff, diff_threshold, 25, 255, CV_THRESH_BINARY);
+				double sum = cv::sum(diff_threshold)[0] + cv::sum(diff_threshold)[1] + cv::sum(diff_threshold)[2];
+				if (sum > 5){
+					logger->info("Sendnotification is being set to true and sum is:"+std::to_string(sum));
+					isSendNotification=true;
+					sentOnce = true;
+				}
+			}
 		}
+		/*if(sentOnce){
+			cropCounter++;
+		}*/
+		logger->info("Crop counter is "+std::to_string(cropCounter));
+		if(cropCounter>=5){
+			isOoiDefined = false;
+			isRegionDefined = false;
+			isFirstFrameDefined = false;
+			sentOnce = false;
+			cropCounter = 0;
+			logger->info("Resetting the values.");
+		}
+		temp->setImg(cropped);
 
 	}
 
