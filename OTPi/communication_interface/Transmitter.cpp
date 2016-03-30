@@ -24,12 +24,26 @@ void* Transmitter::run() {
 	logger->info("Starting Receiver Thread execution loop");
 	int i =0;
 	//while (Controller::isRunning()){
+bool once = true;
 while (true){
 
-		if(dataProcessor->isSendNotification){
-			const char *notify = "notification\r\n";
-               		write(connfd, notify, strlen(notify ));	
+		if(dataProcessor->isSendNotification && dataProcessor->isRegionDefined){
+
+
+            if(dataProcessor->isSendNotification==true&&once==true){
+            	logger->info("sendNotification is true");
+            	dataProcessor->isSendNotification=false;
+            	dataProcessor->isRegionDefined = false;
+            	dataProcessor->isOoiDefined = false;
+            	dataProcessor->isFirstFrameDefined = false;
+            	once=false;
+            	continue;
+            }else{
+            	logger->info("sendNotification is false");
+            }
 			dataProcessor->isSendNotification = false;
+			const char *notify = "notification\r\n";
+			write(connfd, notify, strlen(notify ));
 			continue;
 		}
 		

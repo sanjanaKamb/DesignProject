@@ -70,10 +70,11 @@ void* Receiver::run() {
 			}
 			int x = atoi(arr[0].c_str());
 			int y = atoi(arr[1].c_str());
-			dataProcessor->ooi.x =x;
-			dataProcessor->ooi.y=y;
-			dataProcessor->isOoiDefined = true;	
-
+			if(!dataProcessor->isOoiDefined){
+				dataProcessor->ooi.x =x;
+				dataProcessor->ooi.y=y;
+				dataProcessor->isOoiDefined = true;
+			}
 		}
 		repeat--;
 	}

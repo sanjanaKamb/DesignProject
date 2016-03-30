@@ -79,7 +79,7 @@ void Controller::run(){
             cv::Mat matFrame= imgData->getImg();
 	logger->info("sending to transmitter");
         transmitter->send(matFrame);
-	std::this_thread::sleep_for(std::chrono::milliseconds(5000));
+	std::this_thread::sleep_for(std::chrono::milliseconds(2000));
 }
 
      

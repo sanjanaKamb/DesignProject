@@ -65,7 +65,7 @@ public class MainActivity extends Activity {
     }
 
 
-
+    @TargetApi(16)
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -84,10 +84,11 @@ public class MainActivity extends Activity {
         resultIntent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP|Intent.FLAG_ACTIVITY_SINGLE_TOP);
         final PendingIntent resultPendingIntent =PendingIntent.getActivity(this, 0, resultIntent, 0);
         long when = System.currentTimeMillis(); //now
-        final Notification notification = new Notification.Builder(this)
+
+        final Notification.Builder buildN = new Notification.Builder(this)
                 .setContentTitle("Object of interest has moved")
                 .setContentText("Press to view camera feed").setSmallIcon(R.drawable.notification_template_icon_bg)
-                .setContentIntent(resultPendingIntent).build();
+                .setContentIntent(resultPendingIntent);
         //new Notification(R.drawable.notification_template_icon_bg,"Object of interest has moved",when);
         //notification.setLatestEventInfo(this,"Object of interest has moved","Press to view camera feed",resultPendingIntent);
 
@@ -99,8 +100,10 @@ public class MainActivity extends Activity {
                 public void run() {
 
                     if(createNotification){
-
+                        Log.e(TAG,"increatenotfication");
+                        Notification notification =buildN.build();
                         notification.flags|=Notification.FLAG_AUTO_CANCEL;
+                        notification.defaults |= Notification.DEFAULT_ALL;
                         NotificationManager mNotificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
 
                         // notificationID allows you to update the notification later on.
@@ -158,13 +161,15 @@ public class MainActivity extends Activity {
                 boolean getSize = true;
                 int total = 0;
                 byte[] data2 = null;
-
+                Log.e(TAG,"this: "+new String(data));
                 while(count>0){
-                    Log.e(TAG,"count: "+count);
+                    Log.e(TAG,"counttt: "+count);
                     data2 = Arrays.copyOfRange(data,0,count);
+                    Log.e(TAG,"this: "+new String(data2));
                     if(new String(data2).contains("notification")){
                         createNotification=true;
-                        Log.e(TAG,"NOTIFICATION: "+new String(data2));
+                        Log.e(TAG,"NOTIFICATION: ");
+                        //data2=null;
                         count = is.read(data);
                         continue;
                     }
@@ -219,9 +224,12 @@ public class MainActivity extends Activity {
                     if(total<1){
                         getSize = true;
 
-                        Mat decodedImg = Imgcodecs.imdecode(new MatOfByte(finalArr), Imgcodecs.IMREAD_UNCHANGED);
+                        Mat decodedImg = Imgcodecs.imdecode(new MatOfByte(finalArr), Imgcodecs.IMREAD_COLOR);//TODO: IMREAD_COLOR
                         Log.e(TAG, "height: "+decodedImg.size().height+ " columns: "+decodedImg.size().width);
-
+                        if(decodedImg.size().height<=0 || decodedImg.size().width<=0){
+                            finalArr= new byte[0];
+                            continue;
+                        }
                         Bitmap bm = Bitmap.createBitmap(decodedImg.cols(), decodedImg.rows(),Bitmap.Config.ARGB_8888);
                         Utils.matToBitmap(decodedImg, bm);
 

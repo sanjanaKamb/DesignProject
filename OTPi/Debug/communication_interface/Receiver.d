@@ -28,7 +28,8 @@ communication_interface/Receiver.d: \
  ../communication_interface/controllers/../../util/Properties.h \
  ../communication_interface/controllers/../Receiver.h \
  ../communication_interface/controllers/../Transmitter.h \
- ../communication_interface/controllers/../../util/Logger.h
+ ../communication_interface/controllers/../../util/Logger.h \
+ ../communication_interface/controllers/../controllers/Controller.h
 
 ../communication_interface/Receiver.h:
 
@@ -87,3 +88,5 @@ communication_interface/Receiver.d: \
 ../communication_interface/controllers/../Transmitter.h:
 
 ../communication_interface/controllers/../../util/Logger.h:
+
+../communication_interface/controllers/../controllers/Controller.h:

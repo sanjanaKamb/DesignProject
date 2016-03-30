@@ -14,7 +14,7 @@ public  class NetworkSend extends AsyncTask<String, Void, String> {
     Socket socket = null;
     DataOutputStream outToPi = null;
     private static final String TAG = "NetworkSend";
-    String serverAddr = "192.168.0.27";
+    String serverAddr = "192.168.0.14";
     int portNumber = 5001;
 
 
