@@ -125,9 +125,9 @@ ImgData* DataProcessor::run() {
 				}
 			}
 		}
-		/*if(sentOnce){
+		if(sentOnce){
 			cropCounter++;
-		}*/
+		}
 		logger->info("Crop counter is "+std::to_string(cropCounter));
 		if(cropCounter>=5){
 			isOoiDefined = false;
