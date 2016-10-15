@@ -10,18 +10,24 @@ The final application employed the use of a Raspberry Pi and a RaspiCam to remot
 Upon completion, several of the team’s objectives were met, which included the ability to select and outline objects of interest, and notify users of movement within 7 seconds of receiving the image. Although communication speeds were subpar, achieving only 0.2 frames per second, the team deemed this an area for improvement for future work as it did not significantly hinder the project’s overall success.
 
 1) Objects in a controlled location image outlined by the canny edge detection on the raspberry pi, seen against the original image
-
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture1.jpg)
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture2.jpg)
 2) Screenshots of the video feed from Raspberry Pi with different objects clearly outlined 
-
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture3.png)
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture4.png)
 3) The above screenshot compared with a regular photo of the same location
-
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture5.png)
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture6.jpg)
 4) Screenshots of camera feed from Raspberry Pi being streamed on Android application at 0.2fps, where the user can select an object by touching
-
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture8.png)
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture9.png)
 5) Point Coordinates of the touches on the Android app received by the C++ backend listening.
-
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture7.png)
 6) Notification appears on notification bar of user’s phone, when triggered by backend.
-
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture10.png)
 7) End to end delay between backend and frontend is 7 seconds such that when a selected object moves, the user is sent a notification within 10 seconds
 
 - Below is a timestamp from the Raspberry Pi of the first frame captured by the camera in UTC, which is 2:07:00 EST. 
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture11.png)
 - Below is the timestamp when the frame is displayed in the Android app, which is 2:07:07 EST.
+![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture12.png)
