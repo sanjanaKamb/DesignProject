@@ -10,7 +10,7 @@ The final application employed the use of a Raspberry Pi and a RaspiCam to remot
 Upon completion, several of the team’s objectives were met, which included the ability to select and outline objects of interest, and notify users of movement within 7 seconds of receiving the image. Although communication speeds were subpar, achieving only 0.2 frames per second, the team deemed this an area for improvement for future work as it did not significantly hinder the project’s overall success.
 
 1) Objects in a controlled location image outlined by the canny edge detection on the raspberry pi, seen against the original image
-![alt tag](DesignProject/Picture1.jpg)
+![alt tag](Picture1.jpg)
 ![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture2.jpg)
 2) Screenshots of the video feed from Raspberry Pi with different objects clearly outlined 
 ![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture3.png)
