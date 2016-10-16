@@ -37,7 +37,7 @@ Upon completion, several of the team’s objectives were met, which included the
 
 ![alt tag](https://github.com/sanjanaKamb/DesignProject/blob/master/Picture10.png)
 
-7) End to end delay between backend and frontend is 7 seconds such that when a selected object moves, the user is sent a notification within 10 seconds
+7) End to end delay between backend and frontend is 7 seconds such that when a selected object moves, the user is sent a notification within 7 seconds
 
 - Below is a timestamp from the Raspberry Pi of the first frame captured by the camera in UTC, which is 2:07:00 EST. 
 
